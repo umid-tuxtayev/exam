@@ -1,0 +1,161 @@
+2025-11-17T19:51:58.347Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:51:58.405Z | info | DB connection
+2025-11-17T19:53:10.188Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-17T19:53:10.302Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-17T19:53:11.490Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:53:11.511Z | info | DB connection
+2025-11-17T19:57:35.244Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T19:57:35.249Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T19:57:35.258Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T19:57:35.259Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T19:58:53.673Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:58:53.696Z | info | DB connection
+2025-11-17T19:58:55.538Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:58:55.554Z | info | DB connection
+2025-11-17T19:59:06.287Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:59:06.303Z | info | DB connection
+2025-11-17T19:59:11.942Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:59:11.962Z | info | DB connection
+2025-11-17T19:59:14.556Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:59:14.575Z | info | DB connection
+2025-11-17T19:59:15.026Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T19:59:15.027Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T19:59:15.030Z | info | dddd [object Object]
+2025-11-17T19:59:15.031Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T19:59:15.032Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T19:59:42.221Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T19:59:42.241Z | info | DB connection
+2025-11-17T19:59:42.306Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T19:59:42.307Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T19:59:42.309Z | info | dddd Chevralet
+2025-11-17T19:59:42.310Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T19:59:42.310Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:00:06.696Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:00:06.729Z | info | DB connection
+2025-11-17T20:00:09.326Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:00:09.341Z | info | DB connection
+2025-11-17T20:00:10.924Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:00:10.925Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:00:10.927Z | info | dddd null
+2025-11-17T20:00:10.928Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T20:00:10.928Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:01:36.466Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:01:36.483Z | info | DB connection
+2025-11-17T20:01:40.016Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:01:40.017Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:01:40.020Z | info | dddd null
+2025-11-17T20:01:40.020Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T20:01:40.021Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:01:47.964Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:01:47.990Z | info | DB connection
+2025-11-17T20:01:48.309Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:01:48.310Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:01:48.313Z | info | dddd null
+2025-11-17T20:01:48.350Z | error | CREATE CATIGORI: dto is not defined
+2025-11-17T20:02:07.156Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:02:07.172Z | info | DB connection
+2025-11-17T20:03:19.991Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:03:20.006Z | info | DB connection
+2025-11-17T20:03:22.095Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:03:22.118Z | info | DB connection
+2025-11-17T20:03:22.888Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:03:22.889Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:03:22.892Z | info | dddd {
+  _id: new ObjectId('691b7f2cd5ac43620f072f24'),
+  name: 'Chevralet',
+  slug: 'chevralet',
+  parent: null,
+  createdAt: 2025-11-17T20:01:48.320Z,
+  __v: 0
+}
+2025-11-17T20:03:22.924Z | error | CREATE CATIGORI: E11000 duplicate key error collection: Carts.categories index: name_1 dup key: { name: "Chevralet" }
+2025-11-17T20:03:30.105Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:03:30.127Z | info | DB connection
+2025-11-17T20:03:30.813Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:03:30.815Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:03:30.818Z | info | dddd {
+  _id: new ObjectId('691b7f2cd5ac43620f072f24'),
+  name: 'Chevralet',
+  slug: 'chevralet',
+  parent: null,
+  createdAt: 2025-11-17T20:01:48.320Z,
+  __v: 0
+}
+2025-11-17T20:03:30.828Z | error | CREATE CATIGORI: E11000 duplicate key error collection: Carts.categories index: name_1 dup key: { name: "Chevralet" }
+2025-11-17T20:04:18.109Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:04:18.111Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:04:18.116Z | info | dddd null
+2025-11-17T20:04:18.117Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T20:04:18.118Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:05:11.984Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:05:12.005Z | info | DB connection
+2025-11-17T20:05:13.623Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:05:13.645Z | info | DB connection
+2025-11-17T20:05:17.247Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:05:17.263Z | info | DB connection
+2025-11-17T20:05:21.169Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:05:21.199Z | info | DB connection
+2025-11-17T20:05:24.257Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:05:24.258Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:05:24.261Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T20:05:24.261Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:05:41.906Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:05:41.925Z | info | DB connection
+2025-11-17T20:05:42.983Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:05:42.984Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:05:42.995Z | error | CREATE CATIGORI: catigoria is not a function
+2025-11-17T20:06:01.503Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:06:01.523Z | info | DB connection
+2025-11-17T20:06:03.340Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:06:03.341Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:06:03.344Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T20:06:03.344Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:06:19.871Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:06:19.873Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:06:19.905Z | error | CREATE CATIGORI: catigoria is not a constructor
+2025-11-17T20:07:59.413Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:07:59.430Z | info | DB connection
+2025-11-17T20:08:15.751Z | warn | AUTH: Invalid or expired access token
+2025-11-17T20:08:15.752Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-17T20:08:35.918Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDA5MTkwLCJleHAiOjE3NjQwMTM5OTB9.uuLScM4pzcwI0VAnC_zfDsgYGx9LvtG7PKT8xWbCorY
+2025-11-17T20:09:10.886Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:09:10.888Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:09:10.901Z | error | CREATE CATIGORI: catigoria is not a constructor
+2025-11-17T20:10:12.998Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:10:13.015Z | info | DB connection
+2025-11-17T20:10:20.066Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:10:20.084Z | info | DB connection
+2025-11-17T20:10:27.594Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:10:27.611Z | info | DB connection
+2025-11-17T20:10:37.327Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:10:37.343Z | info | DB connection
+2025-11-17T20:10:39.290Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:10:39.306Z | info | DB connection
+2025-11-17T20:10:55.301Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:10:55.324Z | info | DB connection
+2025-11-17T20:11:00.634Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:11:00.651Z | info | DB connection
+2025-11-17T20:11:05.425Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:11:05.451Z | info | DB connection
+2025-11-17T20:11:07.107Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:11:07.123Z | info | DB connection
+2025-11-17T20:11:13.112Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:11:13.129Z | info | DB connection
+2025-11-17T20:11:14.536Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:11:14.556Z | info | DB connection
+2025-11-17T20:11:20.201Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:11:20.223Z | info | DB connection
+2025-11-17T20:11:27.547Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:11:27.550Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:11:45.110Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-17T20:11:45.112Z | debug | CREATE CATIGORIE REQUEST
+2025-11-17T20:11:45.117Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-17T20:11:45.118Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-17T20:15:38.865Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:15:38.880Z | info | DB connection
+2025-11-17T20:15:39.728Z | info | Server is running on http://127.0.0.1:4000
+2025-11-17T20:15:39.748Z | info | DB connection
+2025-11-17T20:15:48.100Z | error | REFRESH ERROR: ClientError: Token expired, please login again !
+2025-11-17T20:16:03.103Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-17T20:16:03.321Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-17T20:16:10.120Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDEwNTYzLCJleHAiOjE3NjQwMTUzNjN9.6ubzKJtr_rExByU4v5QAj1FTn5VOdxg7dYXRxnZpjhI
