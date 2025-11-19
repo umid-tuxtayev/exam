@@ -159,3 +159,517 @@
 2025-11-17T20:16:03.103Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
 2025-11-17T20:16:03.321Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
 2025-11-17T20:16:10.120Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDEwNTYzLCJleHAiOjE3NjQwMTUzNjN9.6ubzKJtr_rExByU4v5QAj1FTn5VOdxg7dYXRxnZpjhI
+2025-11-18T09:51:07.713Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:07.749Z | info | DB connection
+2025-11-18T09:51:08.706Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:08.720Z | info | DB connection
+2025-11-18T09:51:43.785Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:43.804Z | info | DB connection
+2025-11-18T09:51:45.745Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:45.762Z | info | DB connection
+2025-11-18T09:51:47.096Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:47.112Z | info | DB connection
+2025-11-18T09:51:50.282Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:50.297Z | info | DB connection
+2025-11-18T09:51:54.251Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:51:54.267Z | info | DB connection
+2025-11-18T09:52:03.575Z | info | Unauthroziation
+2025-11-18T09:52:03.578Z | error | AUTH ERROR: ClientError: unauthorization !
+2025-11-18T09:52:40.801Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDEwNTcwLCJleHAiOjE3NjQwMTUzNzB9.G88zI9AEtB8VQ-9win4xRJQxkr8P3xGfEDTfXRDVo-U
+2025-11-18T09:52:55.983Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T09:53:43.713Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:53:43.727Z | info | DB connection
+2025-11-18T09:53:45.098Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T09:53:45.100Z | debug | GET_ALL REQUEST
+2025-11-18T09:54:11.474Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:11.503Z | info | DB connection
+2025-11-18T09:54:14.874Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:14.889Z | info | DB connection
+2025-11-18T09:54:16.938Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:16.954Z | info | DB connection
+2025-11-18T09:54:21.168Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:21.183Z | info | DB connection
+2025-11-18T09:54:24.387Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:24.402Z | info | DB connection
+2025-11-18T09:54:30.237Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:30.261Z | info | DB connection
+2025-11-18T09:54:35.134Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:35.149Z | info | DB connection
+2025-11-18T09:54:48.886Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:48.904Z | info | DB connection
+2025-11-18T09:54:54.327Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:54.346Z | info | DB connection
+2025-11-18T09:54:56.313Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:54:56.331Z | info | DB connection
+2025-11-18T09:55:03.309Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:55:03.325Z | info | DB connection
+2025-11-18T09:55:10.848Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:55:10.866Z | info | DB connection
+2025-11-18T09:55:25.367Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:55:25.383Z | info | DB connection
+2025-11-18T09:55:26.914Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:55:26.929Z | info | DB connection
+2025-11-18T09:55:35.307Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:55:35.323Z | info | DB connection
+2025-11-18T09:55:43.541Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:55:43.557Z | info | DB connection
+2025-11-18T09:56:00.949Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:00.965Z | info | DB connection
+2025-11-18T09:56:02.593Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:02.609Z | info | DB connection
+2025-11-18T09:56:04.263Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:04.278Z | info | DB connection
+2025-11-18T09:56:06.658Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:06.674Z | info | DB connection
+2025-11-18T09:56:18.934Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:18.951Z | info | DB connection
+2025-11-18T09:56:24.568Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:24.584Z | info | DB connection
+2025-11-18T09:56:26.214Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:26.234Z | info | DB connection
+2025-11-18T09:56:35.540Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:35.560Z | info | DB connection
+2025-11-18T09:56:36.785Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:36.802Z | info | DB connection
+2025-11-18T09:56:53.924Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:53.944Z | info | DB connection
+2025-11-18T09:56:55.659Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:56:55.689Z | info | DB connection
+2025-11-18T09:57:10.086Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:10.103Z | info | DB connection
+2025-11-18T09:57:11.240Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:11.255Z | info | DB connection
+2025-11-18T09:57:16.877Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:16.894Z | info | DB connection
+2025-11-18T09:57:17.949Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:17.965Z | info | DB connection
+2025-11-18T09:57:25.172Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:25.190Z | info | DB connection
+2025-11-18T09:57:29.305Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:29.320Z | info | DB connection
+2025-11-18T09:57:51.230Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:51.246Z | info | DB connection
+2025-11-18T09:57:58.569Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:57:58.583Z | info | DB connection
+2025-11-18T09:58:01.745Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:01.766Z | info | DB connection
+2025-11-18T09:58:03.807Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:03.820Z | info | DB connection
+2025-11-18T09:58:09.536Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:09.552Z | info | DB connection
+2025-11-18T09:58:13.651Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:13.666Z | info | DB connection
+2025-11-18T09:58:19.197Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:19.215Z | info | DB connection
+2025-11-18T09:58:20.633Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:20.652Z | info | DB connection
+2025-11-18T09:58:26.970Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:26.985Z | info | DB connection
+2025-11-18T09:58:29.247Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:29.261Z | info | DB connection
+2025-11-18T09:58:44.050Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:44.071Z | info | DB connection
+2025-11-18T09:58:47.688Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:47.703Z | info | DB connection
+2025-11-18T09:58:52.090Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:52.105Z | info | DB connection
+2025-11-18T09:58:54.677Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:54.695Z | info | DB connection
+2025-11-18T09:58:56.329Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:58:56.342Z | info | DB connection
+2025-11-18T09:59:05.762Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:05.779Z | info | DB connection
+2025-11-18T09:59:16.884Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:16.898Z | info | DB connection
+2025-11-18T09:59:19.694Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:19.711Z | info | DB connection
+2025-11-18T09:59:21.337Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:21.360Z | info | DB connection
+2025-11-18T09:59:23.785Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:23.799Z | info | DB connection
+2025-11-18T09:59:26.504Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:26.518Z | info | DB connection
+2025-11-18T09:59:30.439Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:30.455Z | info | DB connection
+2025-11-18T09:59:35.829Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:35.847Z | info | DB connection
+2025-11-18T09:59:40.209Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:40.232Z | info | DB connection
+2025-11-18T09:59:46.941Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:46.957Z | info | DB connection
+2025-11-18T09:59:49.275Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T09:59:49.305Z | info | DB connection
+2025-11-18T10:00:00.561Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:00.578Z | info | DB connection
+2025-11-18T10:00:04.271Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:04.292Z | info | DB connection
+2025-11-18T10:00:11.278Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:11.292Z | info | DB connection
+2025-11-18T10:00:17.223Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:17.243Z | info | DB connection
+2025-11-18T10:00:25.033Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:25.053Z | info | DB connection
+2025-11-18T10:00:42.160Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:42.206Z | info | DB connection
+2025-11-18T10:00:44.336Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:44.360Z | info | DB connection
+2025-11-18T10:00:54.416Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:00:54.435Z | info | DB connection
+2025-11-18T10:01:16.942Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:16.965Z | info | DB connection
+2025-11-18T10:01:20.425Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:20.443Z | info | DB connection
+2025-11-18T10:01:28.591Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:28.621Z | info | DB connection
+2025-11-18T10:01:30.878Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:30.894Z | info | DB connection
+2025-11-18T10:01:33.258Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:33.285Z | info | DB connection
+2025-11-18T10:01:37.031Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:37.055Z | info | DB connection
+2025-11-18T10:01:38.463Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:38.479Z | info | DB connection
+2025-11-18T10:01:41.210Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:01:41.226Z | info | DB connection
+2025-11-18T10:02:04.173Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:04.202Z | info | DB connection
+2025-11-18T10:02:06.420Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:06.437Z | info | DB connection
+2025-11-18T10:02:10.470Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:10.489Z | info | DB connection
+2025-11-18T10:02:28.993Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:29.027Z | info | DB connection
+2025-11-18T10:02:33.857Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:33.884Z | info | DB connection
+2025-11-18T10:02:36.893Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:36.909Z | info | DB connection
+2025-11-18T10:02:38.874Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:38.890Z | info | DB connection
+2025-11-18T10:02:46.297Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:46.313Z | info | DB connection
+2025-11-18T10:02:52.466Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:02:52.487Z | info | DB connection
+2025-11-18T10:03:08.720Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:08.755Z | info | DB connection
+2025-11-18T10:03:11.375Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:11.389Z | info | DB connection
+2025-11-18T10:03:17.708Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:17.725Z | info | DB connection
+2025-11-18T10:03:29.107Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:29.122Z | info | DB connection
+2025-11-18T10:03:34.045Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:34.060Z | info | DB connection
+2025-11-18T10:03:36.236Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:36.256Z | info | DB connection
+2025-11-18T10:03:37.908Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:37.926Z | info | DB connection
+2025-11-18T10:03:42.305Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:42.326Z | info | DB connection
+2025-11-18T10:03:47.562Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:47.607Z | info | DB connection
+2025-11-18T10:03:52.052Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:52.079Z | info | DB connection
+2025-11-18T10:03:53.999Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:54.024Z | info | DB connection
+2025-11-18T10:03:59.335Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:03:59.355Z | info | DB connection
+2025-11-18T10:04:05.356Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:04:05.371Z | info | DB connection
+2025-11-18T10:04:07.965Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:04:07.987Z | info | DB connection
+2025-11-18T10:04:15.164Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:04:15.193Z | info | DB connection
+2025-11-18T10:04:34.909Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:04:34.914Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:05:29.479Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:05:29.481Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:06:14.361Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:06:15.299Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:06:15.316Z | info | DB connection
+2025-11-18T10:06:52.454Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:06:52.470Z | info | DB connection
+2025-11-18T10:06:53.473Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:06:53.474Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:06:53.481Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:07:33.567Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:07:33.585Z | info | DB connection
+2025-11-18T10:07:35.121Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:07:35.136Z | info | DB connection
+2025-11-18T10:07:38.404Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:07:38.426Z | info | DB connection
+2025-11-18T10:07:40.247Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:07:40.264Z | info | DB connection
+2025-11-18T10:07:42.720Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:07:42.735Z | info | DB connection
+2025-11-18T10:07:53.572Z | warn | AUTH: Invalid or expired access token
+2025-11-18T10:07:53.573Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-18T10:08:03.508Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDU5NTYwLCJleHAiOjE3NjQwNjQzNjB9.TX0HXjDYxy88T2-4qsUQzcHxIxXDcAuKFodGUUUNPp8
+2025-11-18T10:08:39.055Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:08:39.071Z | info | DB connection
+2025-11-18T10:08:42.901Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:08:42.915Z | info | DB connection
+2025-11-18T10:08:47.208Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:08:47.209Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:08:47.238Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:09:23.177Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:09:23.192Z | info | DB connection
+2025-11-18T10:09:29.742Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:09:29.743Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:09:29.750Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:09:54.198Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:09:54.213Z | info | DB connection
+2025-11-18T10:09:54.266Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:09:54.267Z | debug | UPDATE CATIGORI REQUEST: [object Object]
+2025-11-18T10:09:54.275Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:10:12.107Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:10:12.122Z | info | DB connection
+2025-11-18T10:10:44.288Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:10:44.310Z | info | DB connection
+2025-11-18T10:10:45.513Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:10:45.527Z | info | DB connection
+2025-11-18T10:12:22.716Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:12:22.731Z | info | DB connection
+2025-11-18T10:12:26.522Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:12:26.543Z | info | DB connection
+2025-11-18T10:12:31.466Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:12:31.480Z | info | DB connection
+2025-11-18T10:12:40.376Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:12:40.391Z | info | DB connection
+2025-11-18T10:12:41.768Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:12:41.784Z | info | DB connection
+2025-11-18T10:12:43.837Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:12:43.838Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:12:43.845Z | debug | debug {
+  _id: new ObjectId('691b816fa352081c9f58aa2c'),
+  name: 'Chevralet',
+  slug: 'chevralet',
+  parent: null,
+  createdAt: 2025-11-17T20:11:27.562Z,
+  __v: 0
+}
+2025-11-18T10:12:43.845Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:13:04.525Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:13:04.543Z | info | DB connection
+2025-11-18T10:13:04.700Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:13:04.702Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:13:04.709Z | debug | debug [object Object]
+2025-11-18T10:13:04.709Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:13:16.583Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:13:16.600Z | info | DB connection
+2025-11-18T10:13:17.388Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:13:17.390Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:13:17.397Z | debug | debug Ferrari
+2025-11-18T10:13:17.398Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:14:18.417Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:14:18.432Z | info | DB connection
+2025-11-18T10:14:27.207Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:14:27.224Z | info | DB connection
+2025-11-18T10:14:29.326Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:14:29.342Z | info | DB connection
+2025-11-18T10:14:31.044Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:14:31.060Z | info | DB connection
+2025-11-18T10:14:56.255Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:14:56.269Z | info | DB connection
+2025-11-18T10:14:59.295Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:14:59.296Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:14:59.304Z | debug | debug [object Object]
+2025-11-18T10:14:59.305Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:15:09.075Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:15:09.091Z | info | DB connection
+2025-11-18T10:15:14.341Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:15:14.342Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:15:14.348Z | debug | debug undefined
+2025-11-18T10:15:14.348Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:16:02.494Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:02.513Z | info | DB connection
+2025-11-18T10:16:05.316Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:05.331Z | info | DB connection
+2025-11-18T10:16:09.636Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:09.651Z | info | DB connection
+2025-11-18T10:16:16.702Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:16.719Z | info | DB connection
+2025-11-18T10:16:18.505Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:18.520Z | info | DB connection
+2025-11-18T10:16:20.389Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:20.404Z | info | DB connection
+2025-11-18T10:16:24.235Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:24.252Z | info | DB connection
+2025-11-18T10:16:29.116Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:29.134Z | info | DB connection
+2025-11-18T10:16:30.103Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:16:30.105Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:16:30.111Z | debug | debug undefined
+2025-11-18T10:16:30.112Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:16:47.082Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:16:47.099Z | info | DB connection
+2025-11-18T10:17:01.228Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:17:01.242Z | info | DB connection
+2025-11-18T10:17:39.283Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:17:39.297Z | info | DB connection
+2025-11-18T10:17:49.854Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:17:49.868Z | info | DB connection
+2025-11-18T10:18:04.276Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:18:04.290Z | info | DB connection
+2025-11-18T10:18:07.494Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:18:07.495Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:18:07.500Z | debug | debug undefined
+2025-11-18T10:18:07.501Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:19:18.204Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:19:18.220Z | info | DB connection
+2025-11-18T10:19:19.646Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:19:19.666Z | info | DB connection
+2025-11-18T10:19:21.251Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:19:21.282Z | info | DB connection
+2025-11-18T10:19:25.081Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:19:25.097Z | info | DB connection
+2025-11-18T10:19:29.627Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:19:29.641Z | info | DB connection
+2025-11-18T10:19:33.397Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:19:33.398Z | debug | UPDATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:19:33.408Z | info | CATIGORIYA UPDATE SUCCESSFULLY
+2025-11-18T10:20:32.403Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:20:32.419Z | info | DB connection
+2025-11-18T10:20:45.406Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:20:45.422Z | info | DB connection
+2025-11-18T10:20:51.352Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:20:51.367Z | info | DB connection
+2025-11-18T10:21:02.391Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:02.413Z | info | DB connection
+2025-11-18T10:21:07.948Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:07.963Z | info | DB connection
+2025-11-18T10:21:10.257Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:10.272Z | info | DB connection
+2025-11-18T10:21:15.693Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:15.708Z | info | DB connection
+2025-11-18T10:21:26.910Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:26.924Z | info | DB connection
+2025-11-18T10:21:45.558Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:45.572Z | info | DB connection
+2025-11-18T10:21:48.587Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:48.603Z | info | DB connection
+2025-11-18T10:21:58.569Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:21:58.585Z | info | DB connection
+2025-11-18T10:22:03.080Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:03.096Z | info | DB connection
+2025-11-18T10:22:10.188Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:10.216Z | info | DB connection
+2025-11-18T10:22:13.046Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:13.073Z | info | DB connection
+2025-11-18T10:22:16.693Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:16.707Z | info | DB connection
+2025-11-18T10:22:17.713Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:17.727Z | info | DB connection
+2025-11-18T10:22:20.001Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:20.018Z | info | DB connection
+2025-11-18T10:22:30.206Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:30.222Z | info | DB connection
+2025-11-18T10:22:37.780Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:37.797Z | info | DB connection
+2025-11-18T10:22:40.234Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:40.249Z | info | DB connection
+2025-11-18T10:22:44.831Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:44.850Z | info | DB connection
+2025-11-18T10:22:49.542Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:49.556Z | info | DB connection
+2025-11-18T10:22:52.903Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:52.920Z | info | DB connection
+2025-11-18T10:22:56.058Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:22:56.074Z | info | DB connection
+2025-11-18T10:23:06.226Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:06.241Z | info | DB connection
+2025-11-18T10:23:13.905Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:13.919Z | info | DB connection
+2025-11-18T10:23:22.288Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:22.303Z | info | DB connection
+2025-11-18T10:23:23.748Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:23.762Z | info | DB connection
+2025-11-18T10:23:33.042Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:33.071Z | info | DB connection
+2025-11-18T10:23:35.651Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:35.666Z | info | DB connection
+2025-11-18T10:23:38.722Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:38.739Z | info | DB connection
+2025-11-18T10:23:40.548Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:40.566Z | info | DB connection
+2025-11-18T10:23:43.742Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:43.756Z | info | DB connection
+2025-11-18T10:23:49.542Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:23:49.556Z | info | DB connection
+2025-11-18T10:24:00.321Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:24:00.336Z | info | DB connection
+2025-11-18T10:24:05.720Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:24:05.741Z | info | DB connection
+2025-11-18T10:24:09.899Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:24:09.917Z | info | DB connection
+2025-11-18T10:24:24.889Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:24:24.908Z | info | DB connection
+2025-11-18T10:24:30.853Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:24:30.867Z | info | DB connection
+2025-11-18T10:25:01.215Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:01.231Z | info | DB connection
+2025-11-18T10:25:05.345Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:05.363Z | info | DB connection
+2025-11-18T10:25:07.262Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:07.282Z | info | DB connection
+2025-11-18T10:25:10.712Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:10.729Z | info | DB connection
+2025-11-18T10:25:16.519Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:16.537Z | info | DB connection
+2025-11-18T10:25:18.641Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:18.658Z | info | DB connection
+2025-11-18T10:25:23.264Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:23.281Z | info | DB connection
+2025-11-18T10:25:29.905Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:29.921Z | info | DB connection
+2025-11-18T10:25:31.695Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:31.715Z | info | DB connection
+2025-11-18T10:25:34.060Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:34.077Z | info | DB connection
+2025-11-18T10:25:36.528Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:36.556Z | info | DB connection
+2025-11-18T10:25:41.169Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:41.184Z | info | DB connection
+2025-11-18T10:25:46.286Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:46.304Z | info | DB connection
+2025-11-18T10:25:47.396Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:47.412Z | info | DB connection
+2025-11-18T10:25:51.582Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:51.600Z | info | DB connection
+2025-11-18T10:25:53.812Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:53.828Z | info | DB connection
+2025-11-18T10:25:57.234Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:25:57.251Z | info | DB connection
+2025-11-18T10:26:02.930Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:26:02.945Z | info | DB connection
+2025-11-18T10:26:04.366Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:26:04.380Z | info | DB connection
+2025-11-18T10:27:31.232Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:27:31.249Z | info | DB connection
+2025-11-18T10:27:34.448Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:27:34.464Z | info | DB connection
+2025-11-18T10:27:41.941Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:27:41.968Z | info | DB connection
+2025-11-18T10:27:48.464Z | info | Server is running on http://127.0.0.1:4000
+2025-11-18T10:27:48.479Z | info | DB connection
+2025-11-18T10:28:00.920Z | warn | AUTH: Invalid or expired access token
+2025-11-18T10:28:00.924Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-18T10:28:11.762Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDYwNDgzLCJleHAiOjE3NjQwNjUyODN9.bZLUAxEKDg7aQAC5iB25so9eJlJ6TRoUUyalt2bpmf0
+2025-11-18T10:28:30.796Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:28:30.799Z | debug | DELETE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:28:30.829Z | debug | DELETE CATIGORI: tuxtayevumid55@gmail.com
+2025-11-18T10:28:40.655Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:28:40.656Z | debug | DELETE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:28:40.661Z | warn | UPDATE: CATIGORIA NOT FOUND!
+2025-11-18T10:28:40.662Z | error | DELETE CATIGORIA: ClientError: catigoria not found !
+2025-11-18T10:29:06.417Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:29:06.418Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:29:10.484Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:29:10.485Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:29:10.489Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-18T10:29:10.490Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-18T10:29:25.018Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:29:25.019Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:29:41.964Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:29:41.964Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-18T10:29:54.664Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-18T10:29:54.665Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com

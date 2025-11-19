@@ -1,0 +1,142 @@
+##########################################
+#             AUTH ROUTES                #
+##########################################
+
+1) Register
+POST http://127.0.0.1:4000/api/auth/register
+Body (JSON):
+{
+  "username": "umidjon",
+  "first_name": "Umid",
+  "last_name": "Karimov",
+  "email": "test@example.com",
+  "password": "123456"
+}
+
+2) Login
+POST http://127.0.0.1:4000/api/auth/login
+Body (JSON):
+{
+  "username": "umidjon",
+  "password": "123456"
+}
+
+3) Verify OTP
+POST http://127.0.0.1:4000/api/auth/verify/otp
+Body (JSON):
+{
+  "email": "test@example.com",
+  "otp": "123456"
+}
+
+4) Resend OTP
+POST http://127.0.0.1:4000/api/auth/resend/otp
+Body (JSON):
+{
+  "email": "test@example.com"
+}
+
+5) Forget Password
+POST http://127.0.0.1:4000/api/auth/forget/password
+Body (JSON):
+{
+  "email": "test@example.com"
+}
+
+6) Change Password
+POST http://127.0.0.1:4000/api/auth/change/password
+Body (JSON):
+{
+  "email": "test@example.com",
+  "otp": "123456",
+  "newPassword": "abcdef"
+}
+
+7) Refresh Token
+POST http://127.0.0.1:4000/api/auth/refresh/token
+Body (JSON):
+{
+  "refreshToken": "<your_refresh_token>"
+}
+
+8) Logout
+POST http://127.0.0.1:4000/api/auth/logout
+Body (JSON):
+{
+  "refreshToken": "<your_refresh_token>"
+}
+
+
+##########################################
+#         CATEGORY (CATIGORIA)           #
+##########################################
+
+1) Create Category
+POST http://127.0.0.1:4000/api/catigoria/create
+form-data:
+- name: "Electronics"
+- parent: categoryId or null (optional)
+- model_image: image file
+
+2) Get All Categories
+GET http://127.0.0.1:4000/api/catigoria/
+
+3) Update Category
+PUT http://127.0.0.1:4000/api/catigoria/update/:id
+form-data (optional):
+- name
+- parent
+- model_image
+
+4) Delete Category
+DELETE http://127.0.0.1:4000/api/catigoria/delete/:id
+
+5) Get Cars by Category
+GET http://127.0.0.1:4000/api/catigoria/:id/cars
+Example: GET http://127.0.0.1:4000/api/catigoria/691dce998e27bba1ed7f9928/cars
+
+
+##########################################
+#               CARS ROUTES              #
+##########################################
+
+1) Create Car
+POST http://127.0.0.1:4000/api/cars/create
+form-data (majburiy):
+- name: "Malibu"
+- description: "Yaxshi mashina"
+- price: 20000
+- year: 2022
+- color: "oq"
+- distance: "1000km"
+- tanirovka: "bor" or "yo'q"
+- categoryId: categoryId
+- tashqi_makon: file
+- ichki_makon: file
+- model_image: file
+
+2) Get All Cars
+GET http://127.0.0.1:4000/api/cars/
+
+3) Get One Car
+GET http://127.0.0.1:4000/api/cars/:id
+Example: GET http://127.0.0.1:4000/api/cars/6920abcd1122ff34bb11cc22
+
+4) Delete Car
+DELETE http://127.0.0.1:4000/api/cars/delete/:id
+
+5) Update Car
+PUT http://127.0.0.1:4000/api/cars/update/:id
+form-data (optional):
+- name
+- description
+- price
+- year
+- color
+- distance
+- tanirovka
+- categoryId
+- tashqi_makon: file
+- ichki_makon: file
+- model_image: file
+Note: Agar rasm yuborilmasa, eski rasm qoladi

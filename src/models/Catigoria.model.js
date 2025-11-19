@@ -8,10 +8,15 @@ const categorySchema = new Schema({
         trim: true
     },
 
-    slug: {
+    slug: { type: String, unique: true },
+
+    model_image: {
         type: String,
-        required: true,
-        unique: true,
+        required: [true, 'model rasmi majbury']
+    },
+
+    model_imageId: {
+        type: String
     },
 
     parent: {
@@ -19,11 +24,17 @@ const categorySchema = new Schema({
         ref: "Category",
         default: null
     },
-    
+
     createdAt: {
         type: Date,
         default: Date.now
     }
+});
+
+categorySchema.virtual("children", {
+    ref: "Category",
+    localField: "_id",
+    foreignField: "parent"
 });
 
 module.exports = model("Category", categorySchema);

@@ -6,12 +6,18 @@ const userService = require("../services/user.service");
 module.exports = async (req, res, next) => {
     try {
         const authHeader = req.headers['authorization'];
-        const token = authHeader && authHeader.split(' ')[1];
 
-        if (!token) {
-            logger.info(`Unauthroziation`);
-            throw new ClientError('unauthorization', 401);
+        if (!authHeader) {
+            logger.info("AUTH: No authorization header");
+            throw new ClientError("Authorization header missing", 401);
         };
+
+        const [scheme, token] = authHeader.split(" ");
+
+        if (scheme !== "Bearer" || !token) {
+            logger.warn(`AUTH: Invalid scheme or token format: ${authHeader}`);
+            throw new ClientError("Invalid authorization format", 401);
+        }
 
         const decode = tokenHelper.verifyAccessToken(token);
         if (!decode) {

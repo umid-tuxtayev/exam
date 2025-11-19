@@ -1,0 +1,716 @@
+2025-11-19T12:06:00.374Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:06:00.402Z | info | DB connection
+2025-11-19T12:06:01.293Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:06:01.307Z | info | DB connection
+2025-11-19T12:06:04.268Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNDYxNjkxLCJleHAiOjE3NjQwNjY0OTF9.o6pQ3V0sHgOHa1QfqZyiIj11mSz9hKwVdlpGRBw6D9Q
+2025-11-19T12:08:39.141Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:08:39.168Z | info | DB connection
+2025-11-19T12:08:40.229Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:08:40.253Z | info | DB connection
+2025-11-19T12:08:42.780Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:08:42.804Z | info | DB connection
+2025-11-19T12:08:54.197Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:10:53.859Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:10:53.884Z | info | DB connection
+2025-11-19T12:10:56.278Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:10:56.303Z | info | DB connection
+2025-11-19T12:10:57.504Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:11:01.237Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:11:01.279Z | error | CREATE CATIGORI: Category validation failed: model_image: model rasmi majbury
+2025-11-19T12:11:41.938Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:11:41.966Z | info | DB connection
+2025-11-19T12:11:45.514Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:11:45.536Z | info | DB connection
+2025-11-19T12:11:48.380Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:11:48.410Z | info | DB connection
+2025-11-19T12:12:46.327Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:12:46.352Z | info | DB connection
+2025-11-19T12:13:01.412Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:13:01.452Z | info | DB connection
+2025-11-19T12:13:14.042Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:13:14.073Z | info | DB connection
+2025-11-19T12:13:16.403Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:13:19.768Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:13:59.516Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:13:59.544Z | info | DB connection
+2025-11-19T12:14:01.190Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:01.211Z | info | DB connection
+2025-11-19T12:14:03.404Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:03.428Z | info | DB connection
+2025-11-19T12:14:12.045Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:12.067Z | info | DB connection
+2025-11-19T12:14:17.072Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:17.093Z | info | DB connection
+2025-11-19T12:14:20.144Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:20.171Z | info | DB connection
+2025-11-19T12:14:23.134Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:23.166Z | info | DB connection
+2025-11-19T12:14:27.763Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:14:27.800Z | info | DB connection
+2025-11-19T12:14:37.649Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:14:41.298Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:14:41.305Z | info | nnnn, /create
+2025-11-19T12:15:14.260Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:15:14.283Z | info | DB connection
+2025-11-19T12:17:05.356Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:17:08.622Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:17:08.643Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-19T12:17:08.644Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-19T12:17:27.768Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:17:30.755Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:17:30.760Z | info | nnnn, /create
+2025-11-19T12:17:41.141Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:17:41.165Z | info | DB connection
+2025-11-19T12:18:31.791Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:18:31.818Z | info | DB connection
+2025-11-19T12:18:48.912Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:18:48.935Z | info | DB connection
+2025-11-19T12:18:59.560Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:18:59.585Z | info | DB connection
+2025-11-19T12:19:21.995Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:19:22.018Z | info | DB connection
+2025-11-19T12:19:26.345Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:19:26.369Z | info | DB connection
+2025-11-19T12:19:40.141Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:19:43.816Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:19:43.824Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-19T12:19:43.826Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-19T12:19:56.951Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:19:59.683Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:19:59.689Z | info | nnnn, /create
+2025-11-19T12:21:13.843Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:21:13.864Z | info | DB connection
+2025-11-19T12:21:58.844Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:21:58.870Z | info | DB connection
+2025-11-19T12:22:37.487Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:22:37.527Z | info | DB connection
+2025-11-19T12:22:41.013Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:22:43.785Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:22:43.791Z | warn | CATIGORIA CREATE: catigoria exists
+2025-11-19T12:22:43.792Z | error | CREATE CATIGORI: ClientError: catigoria already exists !
+2025-11-19T12:22:58.829Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:23:00.955Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:23:00.961Z | info | nnnn, [object Object]
+2025-11-19T12:23:00.985Z | error | CREATE CATIGORI: Category validation failed: model_image: Cast to string failed for value "{
+  fieldname: 'modulImage',
+  originalname: 'main.router.png',
+  encoding: '7bit',
+  mimetype: 'image/png',
+  path: 'https://res.cloudinary.com/dtzhbqvoq/image/upload/v1763554979/my_app/ytothqlointq0lk9kuio.png',
+  size: 78798,
+  filename: 'my_app/ytothqlointq0lk9kuio'
+}" (type Object) at path "model_image"
+2025-11-19T12:24:34.408Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:24:34.437Z | info | DB connection
+2025-11-19T12:24:36.470Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:24:39.048Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:24:39.054Z | info | nnnn, [object Object]
+2025-11-19T12:25:39.316Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:25:41.882Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:25:41.888Z | info | nnnn, [object Object]
+2025-11-19T12:27:23.342Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:27:23.371Z | info | DB connection
+2025-11-19T12:31:54.023Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:31:54.045Z | info | DB connection
+2025-11-19T12:32:03.881Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:32:03.911Z | info | DB connection
+2025-11-19T12:33:03.937Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:03.958Z | info | DB connection
+2025-11-19T12:33:09.413Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:09.438Z | info | DB connection
+2025-11-19T12:33:11.079Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:11.122Z | info | DB connection
+2025-11-19T12:33:21.332Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:21.356Z | info | DB connection
+2025-11-19T12:33:26.377Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:26.407Z | info | DB connection
+2025-11-19T12:33:55.294Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:55.322Z | info | DB connection
+2025-11-19T12:33:58.048Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:33:58.077Z | info | DB connection
+2025-11-19T12:34:37.497Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:34:37.527Z | info | DB connection
+2025-11-19T12:34:39.275Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:34:39.299Z | info | DB connection
+2025-11-19T12:34:48.739Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:34:48.766Z | info | DB connection
+2025-11-19T12:34:57.370Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:34:57.395Z | info | DB connection
+2025-11-19T12:34:59.993Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:35:00.018Z | info | DB connection
+2025-11-19T12:36:17.167Z | warn | AUTH: Invalid or expired access token
+2025-11-19T12:36:17.169Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-19T12:36:38.499Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNTUzOTY0LCJleHAiOjE3NjQxNTg3NjR9.-P0ltJsJwNmOX5_PtV0-tGsI7AcOWUxM-sCDuE6FDgE
+2025-11-19T12:36:58.363Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:37:01.287Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:37:01.293Z | info | nnnn, [object Object]
+2025-11-19T12:38:05.600Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:38:05.602Z | debug | DELETE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:38:05.616Z | error | DELETE CATIGORIA: model_imageId is not defined
+2025-11-19T12:39:45.047Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:39:45.074Z | info | DB connection
+2025-11-19T12:39:47.135Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:39:47.161Z | info | DB connection
+2025-11-19T12:39:59.441Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:39:59.462Z | info | DB connection
+2025-11-19T12:40:01.850Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:40:01.880Z | info | DB connection
+2025-11-19T12:40:24.405Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:40:24.436Z | info | DB connection
+2025-11-19T12:40:26.263Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:40:26.287Z | info | DB connection
+2025-11-19T12:40:48.961Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:40:48.984Z | info | DB connection
+2025-11-19T12:41:10.554Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:41:14.388Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:41:14.394Z | info | nnnn, [object Object]
+2025-11-19T12:41:31.033Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:41:31.053Z | debug | DELETE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:41:31.059Z | warn | UPDATE: CATIGORIA NOT FOUND!
+2025-11-19T12:41:31.060Z | error | DELETE CATIGORIA: ClientError: catigoria not found !
+2025-11-19T12:41:49.957Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:41:49.958Z | debug | DELETE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:41:51.147Z | debug | DELETE CATIGORI: tuxtayevumid55@gmail.com
+2025-11-19T12:42:13.054Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:42:16.475Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:42:16.481Z | info | nnnn, [object Object]
+2025-11-19T12:42:41.803Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T12:42:41.805Z | debug | DELETE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T12:42:43.158Z | debug | DELETE CATIGORI: tuxtayevumid55@gmail.com
+2025-11-19T12:49:14.405Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:49:14.452Z | info | DB connection
+2025-11-19T12:50:05.074Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:50:05.093Z | info | DB connection
+2025-11-19T12:51:25.338Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:51:25.363Z | info | DB connection
+2025-11-19T12:51:31.278Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:51:31.309Z | info | DB connection
+2025-11-19T12:51:33.044Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:51:33.073Z | info | DB connection
+2025-11-19T12:51:36.691Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:51:36.725Z | info | DB connection
+2025-11-19T12:51:57.282Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:51:57.307Z | info | DB connection
+2025-11-19T12:53:35.684Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:53:35.717Z | info | DB connection
+2025-11-19T12:53:37.201Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:53:37.225Z | info | DB connection
+2025-11-19T12:53:59.995Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:00.029Z | info | DB connection
+2025-11-19T12:54:05.507Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:05.527Z | info | DB connection
+2025-11-19T12:54:10.772Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:10.795Z | info | DB connection
+2025-11-19T12:54:26.959Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:26.989Z | info | DB connection
+2025-11-19T12:54:40.682Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:40.717Z | info | DB connection
+2025-11-19T12:54:46.516Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:46.537Z | info | DB connection
+2025-11-19T12:54:47.833Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:47.864Z | info | DB connection
+2025-11-19T12:54:52.479Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:52.499Z | info | DB connection
+2025-11-19T12:54:58.692Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:54:58.715Z | info | DB connection
+2025-11-19T12:55:00.066Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:00.092Z | info | DB connection
+2025-11-19T12:55:03.688Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:03.718Z | info | DB connection
+2025-11-19T12:55:05.068Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:05.087Z | info | DB connection
+2025-11-19T12:55:08.186Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:08.210Z | info | DB connection
+2025-11-19T12:55:13.828Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:13.856Z | info | DB connection
+2025-11-19T12:55:15.816Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:15.846Z | info | DB connection
+2025-11-19T12:55:22.578Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:22.602Z | info | DB connection
+2025-11-19T12:55:36.682Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:36.729Z | info | DB connection
+2025-11-19T12:55:41.339Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:41.369Z | info | DB connection
+2025-11-19T12:55:48.582Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:48.610Z | info | DB connection
+2025-11-19T12:55:50.650Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:50.681Z | info | DB connection
+2025-11-19T12:55:52.675Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:52.702Z | info | DB connection
+2025-11-19T12:55:56.079Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:56.100Z | info | DB connection
+2025-11-19T12:55:57.219Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:55:57.245Z | info | DB connection
+2025-11-19T12:56:04.717Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:56:04.744Z | info | DB connection
+2025-11-19T12:56:12.288Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:56:12.313Z | info | DB connection
+2025-11-19T12:56:18.980Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:56:19.006Z | info | DB connection
+2025-11-19T12:56:33.872Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:56:33.898Z | info | DB connection
+2025-11-19T12:57:07.586Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:07.621Z | info | DB connection
+2025-11-19T12:57:08.934Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:08.965Z | info | DB connection
+2025-11-19T12:57:12.828Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:12.866Z | info | DB connection
+2025-11-19T12:57:15.991Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:16.033Z | info | DB connection
+2025-11-19T12:57:17.616Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:17.645Z | info | DB connection
+2025-11-19T12:57:21.843Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:21.874Z | info | DB connection
+2025-11-19T12:57:24.062Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:24.085Z | info | DB connection
+2025-11-19T12:57:30.866Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:30.888Z | info | DB connection
+2025-11-19T12:57:34.551Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:34.570Z | info | DB connection
+2025-11-19T12:57:37.343Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:37.365Z | info | DB connection
+2025-11-19T12:57:39.594Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:39.618Z | info | DB connection
+2025-11-19T12:57:52.613Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:57:52.636Z | info | DB connection
+2025-11-19T12:59:45.903Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:59:45.927Z | info | DB connection
+2025-11-19T12:59:47.321Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T12:59:47.340Z | info | DB connection
+2025-11-19T13:00:53.084Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:00:53.110Z | info | DB connection
+2025-11-19T13:01:07.005Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:01:07.034Z | info | DB connection
+2025-11-19T13:01:45.610Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:01:45.640Z | info | DB connection
+2025-11-19T13:01:49.672Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:01:49.703Z | info | DB connection
+2025-11-19T13:01:55.542Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:01:55.564Z | info | DB connection
+2025-11-19T13:01:58.463Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:01:58.499Z | info | DB connection
+2025-11-19T13:04:44.621Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:04:44.652Z | info | DB connection
+2025-11-19T13:04:46.107Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:04:46.136Z | info | DB connection
+2025-11-19T13:05:46.283Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:05:46.312Z | info | DB connection
+2025-11-19T13:05:48.035Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:05:48.060Z | info | DB connection
+2025-11-19T13:05:52.235Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:05:52.255Z | info | DB connection
+2025-11-19T13:05:56.243Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:05:56.269Z | info | DB connection
+2025-11-19T13:05:58.335Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:05:58.357Z | info | DB connection
+2025-11-19T13:06:12.130Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:06:12.153Z | info | DB connection
+2025-11-19T13:06:12.991Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:06:13.011Z | info | DB connection
+2025-11-19T13:13:13.320Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:13:13.342Z | info | DB connection
+2025-11-19T13:13:14.337Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:13:14.368Z | info | DB connection
+2025-11-19T13:26:06.989Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:26:07.013Z | info | DB connection
+2025-11-19T13:26:07.998Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:26:08.018Z | info | DB connection
+2025-11-19T13:41:17.186Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T13:41:17.211Z | info | DB connection
+2025-11-19T14:00:45.466Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:00:45.513Z | info | DB connection
+2025-11-19T14:00:48.802Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:00:48.835Z | info | DB connection
+2025-11-19T14:01:05.229Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:01:05.258Z | info | DB connection
+2025-11-19T14:01:48.797Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNTU1Nzk4LCJleHAiOjE3NjQxNjA1OTh9.cm1Lvj_aecNH0QY-UgjvhmLaFQ00srF3nkTCkhcZyOE
+2025-11-19T14:05:06.988Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:05:13.788Z | debug | CREATE CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T14:08:49.305Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:08:49.320Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:12:17.052Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:12:17.053Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:12:42.647Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:12:42.649Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:13:55.284Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:13:55.337Z | info | DB connection
+2025-11-19T14:13:56.990Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:13:57.038Z | info | DB connection
+2025-11-19T14:13:59.067Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:13:59.115Z | info | DB connection
+2025-11-19T14:14:03.171Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:14:03.220Z | info | DB connection
+2025-11-19T14:14:05.329Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:14:05.372Z | info | DB connection
+2025-11-19T14:14:14.241Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:14:14.245Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:14:39.706Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:14:39.768Z | info | DB connection
+2025-11-19T14:14:44.438Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:14:44.439Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:15:20.502Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:15:20.547Z | info | DB connection
+2025-11-19T14:15:23.815Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:15:23.858Z | info | DB connection
+2025-11-19T14:15:28.089Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:15:28.187Z | info | DB connection
+2025-11-19T14:15:30.226Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:15:30.228Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:15:38.863Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:15:38.895Z | info | DB connection
+2025-11-19T14:15:44.084Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:15:44.133Z | info | DB connection
+2025-11-19T14:16:02.418Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:16:02.457Z | info | DB connection
+2025-11-19T14:16:06.426Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:16:06.458Z | info | DB connection
+2025-11-19T14:16:08.228Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:16:08.272Z | info | DB connection
+2025-11-19T14:16:10.813Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:16:10.852Z | info | DB connection
+2025-11-19T14:16:11.386Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:16:11.388Z | error | CAR CREATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:16:54.062Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:16:54.100Z | info | DB connection
+2025-11-19T14:17:57.555Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:17:57.612Z | info | DB connection
+2025-11-19T14:18:14.326Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:14.356Z | info | DB connection
+2025-11-19T14:18:19.288Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:19.329Z | info | DB connection
+2025-11-19T14:18:22.500Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:22.531Z | info | DB connection
+2025-11-19T14:18:24.376Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:24.413Z | info | DB connection
+2025-11-19T14:18:27.994Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:28.035Z | info | DB connection
+2025-11-19T14:18:33.756Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:33.793Z | info | DB connection
+2025-11-19T14:18:43.870Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:18:43.907Z | info | DB connection
+2025-11-19T14:18:47.627Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:18:49.730Z | info | 691dce998e27bba1ed7f9928
+2025-11-19T14:18:49.777Z | info | CAR CREATED: 691dd1c9eabbe362290e18aa
+2025-11-19T14:21:07.757Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:21:07.784Z | info | DB connection
+2025-11-19T14:22:00.336Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:22:00.340Z | error | CAR GETALL ERROR: CarsService is not defined
+2025-11-19T14:22:26.757Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:22:26.786Z | info | DB connection
+2025-11-19T14:22:30.811Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:22:30.835Z | info | DB connection
+2025-11-19T14:22:33.619Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:22:33.653Z | info | DB connection
+2025-11-19T14:22:39.986Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:22:40.018Z | info | DB connection
+2025-11-19T14:22:44.010Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:24:29.063Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:24:29.072Z | error | CAR GETONE ERROR: ClientError: Car not found !
+2025-11-19T14:25:13.861Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:25:36.650Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:25:38.603Z | info | 691dce998e27bba1ed7f9928
+2025-11-19T14:25:38.614Z | info | CAR CREATED: 691dd362fad1048dd7084cba
+2025-11-19T14:25:40.077Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:25:41.356Z | info | 691dce998e27bba1ed7f9928
+2025-11-19T14:25:41.359Z | info | CAR CREATED: 691dd365fad1048dd7084cbe
+2025-11-19T14:25:42.638Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:25:43.739Z | info | 691dce998e27bba1ed7f9928
+2025-11-19T14:25:43.742Z | info | CAR CREATED: 691dd367fad1048dd7084cc2
+2025-11-19T14:25:54.999Z | warn | AUTH: Invalid or expired access token
+2025-11-19T14:25:54.999Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-19T14:26:20.922Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:26:20.923Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-19T14:27:44.270Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:29:33.243Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:29:33.277Z | info | DB connection
+2025-11-19T14:29:35.981Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:29:36.017Z | info | DB connection
+2025-11-19T14:29:39.394Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:29:39.423Z | info | DB connection
+2025-11-19T14:31:04.237Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:31:04.275Z | info | DB connection
+2025-11-19T14:31:50.779Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:31:50.805Z | info | DB connection
+2025-11-19T14:32:18.541Z | warn | AUTH: Invalid or expired access token
+2025-11-19T14:32:18.542Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-19T14:32:32.572Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNTYwOTA4LCJleHAiOjE3NjQxNjU3MDh9.N5vzD93vhsoY1mMGXy6YdIc_RnUUh5bNFmlXWz2L28g
+2025-11-19T14:32:49.948Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:32:49.950Z | error | GET_ONE ERROR: getOne is not defined
+2025-11-19T14:33:01.886Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:33:01.912Z | info | DB connection
+2025-11-19T14:33:20.922Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:33:20.967Z | info | DB connection
+2025-11-19T14:33:28.336Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:33:28.344Z | error | GET_ONE ERROR: Cannot populate path `parentId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2025-11-19T14:34:33.862Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:34:33.900Z | info | DB connection
+2025-11-19T14:34:43.463Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:42:06.740Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:42:06.775Z | info | DB connection
+2025-11-19T14:42:07.967Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:42:07.997Z | info | DB connection
+2025-11-19T14:42:42.331Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:42:42.357Z | info | DB connection
+2025-11-19T14:44:23.931Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:44:23.954Z | info | DB connection
+2025-11-19T14:45:28.042Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:45:28.074Z | info | DB connection
+2025-11-19T14:45:45.576Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:46:07.568Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:07.593Z | info | DB connection
+2025-11-19T14:46:10.145Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:46:27.038Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:27.062Z | info | DB connection
+2025-11-19T14:46:38.197Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:38.229Z | info | DB connection
+2025-11-19T14:46:41.866Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:41.908Z | info | DB connection
+2025-11-19T14:46:44.047Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:44.075Z | info | DB connection
+2025-11-19T14:46:46.490Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:46.520Z | info | DB connection
+2025-11-19T14:46:50.129Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:50.156Z | info | DB connection
+2025-11-19T14:46:56.464Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:56.496Z | info | DB connection
+2025-11-19T14:46:57.780Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:46:57.805Z | info | DB connection
+2025-11-19T14:47:03.368Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:47:03.396Z | info | DB connection
+2025-11-19T14:47:05.365Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:47:05.393Z | info | DB connection
+2025-11-19T14:47:10.045Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:48:39.444Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:48:39.478Z | info | DB connection
+2025-11-19T14:48:41.085Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:48:47.156Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:50:05.908Z | warn | AUTH: Invalid or expired access token
+2025-11-19T14:50:05.909Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-19T14:50:38.949Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:52:15.440Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:53:52.176Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:53:52.223Z | info | DB connection
+2025-11-19T14:54:16.548Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:54:16.572Z | info | DB connection
+2025-11-19T14:54:18.967Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:54:19.006Z | info | DB connection
+2025-11-19T14:54:38.555Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:54:38.582Z | info | DB connection
+2025-11-19T14:54:41.587Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:54:41.615Z | info | DB connection
+2025-11-19T14:54:49.215Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:54:49.236Z | info | DB connection
+2025-11-19T14:54:53.836Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:54:53.873Z | info | DB connection
+2025-11-19T14:54:57.891Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:55:05.561Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:55:05.565Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:55:38.114Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:55:38.151Z | info | DB connection
+2025-11-19T14:55:48.620Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:55:48.624Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:57:08.854Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:57:08.878Z | info | DB connection
+2025-11-19T14:57:22.254Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:57:22.278Z | info | DB connection
+2025-11-19T14:57:24.986Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:57:25.018Z | info | DB connection
+2025-11-19T14:57:26.983Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:57:26.986Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:57:46.960Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:57:46.997Z | info | DB connection
+2025-11-19T14:57:56.198Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:57:56.224Z | info | DB connection
+2025-11-19T14:57:57.423Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:57:57.427Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T14:59:24.368Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T14:59:24.406Z | info | DB connection
+2025-11-19T14:59:25.012Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T14:59:25.015Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T15:00:35.232Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:00:35.269Z | info | DB connection
+2025-11-19T15:00:35.604Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:00:35.608Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T15:01:07.389Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:01:07.422Z | info | DB connection
+2025-11-19T15:01:14.271Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:01:14.302Z | info | DB connection
+2025-11-19T15:01:16.280Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:01:16.311Z | info | DB connection
+2025-11-19T15:01:18.917Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:01:18.945Z | info | DB connection
+2025-11-19T15:01:25.596Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:01:25.624Z | info | DB connection
+2025-11-19T15:01:43.869Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:01:43.900Z | info | DB connection
+2025-11-19T15:01:59.832Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:02:00.138Z | info | DB connection
+2025-11-19T15:02:02.112Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:02:02.149Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T15:02:24.685Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:02:24.903Z | info | DB connection
+2025-11-19T15:02:46.715Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:02:46.750Z | info | DB connection
+2025-11-19T15:02:49.350Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:02:49.380Z | info | DB connection
+2025-11-19T15:03:01.524Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:03:01.785Z | info | DB connection
+2025-11-19T15:04:36.548Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:04:36.863Z | info | DB connection
+2025-11-19T15:04:49.473Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:04:49.768Z | info | DB connection
+2025-11-19T15:05:00.419Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:05:00.652Z | info | DB connection
+2025-11-19T15:05:11.318Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:05:12.403Z | warn | AUTH: Invalid or expired access token
+2025-11-19T15:05:12.413Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-19T15:05:12.565Z | info | DB connection
+2025-11-19T15:05:53.185Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNTYyNzUyLCJleHAiOjE3NjQxNjc1NTJ9.ksAzpKG9zlDvxBF8LgWexNMQIEqnpa1r9I0uSgm8gBc
+2025-11-19T15:06:26.833Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:06:26.868Z | error | CAR UPDATE ERROR: Cannot read properties of undefined (reading 'categoryId')
+2025-11-19T15:10:28.066Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:10:28.367Z | info | DB connection
+2025-11-19T15:10:57.714Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:10:58.036Z | info | DB connection
+2025-11-19T15:11:00.749Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:11:00.763Z | error | CAR UPDATE ERROR: CarsService is not defined
+2025-11-19T15:11:20.533Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:11:20.809Z | info | DB connection
+2025-11-19T15:11:31.786Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:11:32.064Z | info | DB connection
+2025-11-19T15:11:34.129Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:11:34.223Z | debug | UPDATE BODY =>
+2025-11-19T15:11:34.242Z | debug | UPDATE FILES =>
+2025-11-19T15:11:34.453Z | error | CAR UPDATE ERROR: Schema hasn't been registered for model "categoryId".
+Use mongoose.model(name, schema)
+2025-11-19T15:12:23.648Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:12:24.043Z | info | DB connection
+2025-11-19T15:12:36.194Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:12:36.517Z | info | DB connection
+2025-11-19T15:12:37.581Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:12:37.621Z | debug | UPDATE BODY =>
+2025-11-19T15:12:37.627Z | debug | UPDATE FILES =>
+2025-11-19T15:12:37.737Z | error | CAR UPDATE ERROR: Schema hasn't been registered for model "categoryId".
+Use mongoose.model(name, schema)
+2025-11-19T15:13:47.800Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:13:48.062Z | info | DB connection
+2025-11-19T15:13:51.991Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:13:52.036Z | debug | UPDATE BODY =>
+2025-11-19T15:13:52.043Z | debug | UPDATE FILES =>
+2025-11-19T15:13:52.211Z | info | CAR UPDATED: 691dd362fad1048dd7084cba
+2025-11-19T15:13:52.216Z | error | CAR UPDATE ERROR: updated is not defined
+2025-11-19T15:15:02.023Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:15:02.255Z | info | DB connection
+2025-11-19T15:15:11.073Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:15:11.119Z | debug | UPDATE BODY =>
+2025-11-19T15:15:11.126Z | debug | UPDATE FILES =>
+2025-11-19T15:15:11.283Z | info | CAR UPDATED: 691dd362fad1048dd7084cba
+2025-11-19T15:15:11.288Z | error | CAR UPDATE ERROR: updated is not defined
+2025-11-19T15:16:17.471Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:16:17.686Z | info | DB connection
+2025-11-19T15:16:28.599Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:16:28.638Z | debug | UPDATE BODY =>
+2025-11-19T15:16:28.643Z | debug | UPDATE FILES =>
+2025-11-19T15:16:28.800Z | info | CAR UPDATED: 691dd362fad1048dd7084cba
+2025-11-19T15:17:08.132Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:17:08.159Z | debug | UPDATE BODY =>
+2025-11-19T15:17:08.162Z | debug | UPDATE FILES =>
+2025-11-19T15:17:08.213Z | info | CAR UPDATED: 691dd362fad1048dd7084cba
+2025-11-19T15:18:14.733Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:18:14.982Z | info | DB connection
+2025-11-19T15:18:41.229Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:18:41.267Z | debug | UPDATE BODY =>
+2025-11-19T15:18:41.272Z | debug | UPDATE FILES =>
+2025-11-19T15:18:41.410Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:19:56.070Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:19:56.315Z | info | DB connection
+2025-11-19T15:20:05.903Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:20:05.946Z | debug | UPDATE BODY =>
+2025-11-19T15:20:05.951Z | debug | UPDATE FILES =>
+2025-11-19T15:20:06.113Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:20:22.027Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:20:22.052Z | debug | UPDATE BODY =>
+2025-11-19T15:20:22.057Z | debug | UPDATE FILES =>
+2025-11-19T15:20:22.106Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:20:50.440Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:20:50.462Z | debug | UPDATE BODY =>
+2025-11-19T15:20:50.466Z | debug | UPDATE FILES =>
+2025-11-19T15:20:50.521Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:20:59.872Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:21:00.173Z | info | DB connection
+2025-11-19T15:23:19.299Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:23:19.338Z | debug | UPDATE BODY =>
+2025-11-19T15:23:19.342Z | debug | UPDATE FILES =>
+2025-11-19T15:23:19.521Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:23:31.131Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:23:31.153Z | debug | UPDATE BODY =>
+2025-11-19T15:23:31.159Z | debug | UPDATE FILES =>
+2025-11-19T15:23:31.214Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:24:52.948Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:24:52.965Z | debug | UPDATE BODY =>
+2025-11-19T15:24:52.968Z | debug | UPDATE FILES =>
+2025-11-19T15:24:53.014Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:25:19.902Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:25:19.924Z | debug | UPDATE BODY =>
+2025-11-19T15:25:19.930Z | debug | UPDATE FILES =>
+2025-11-19T15:25:19.982Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:25:57.640Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:25:57.858Z | info | DB connection
+2025-11-19T15:26:39.586Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:26:39.879Z | info | DB connection
+2025-11-19T15:26:40.436Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:26:43.292Z | debug | UPDATE BODY =>
+2025-11-19T15:26:43.297Z | debug | UPDATE FILES =>
+2025-11-19T15:26:44.148Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:28:36.986Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:28:37.013Z | info | DB connection
+2025-11-19T15:29:12.190Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:29:12.199Z | debug | UPDATE BODY =>
+2025-11-19T15:29:12.199Z | debug | UPDATE FILES =>
+2025-11-19T15:29:12.221Z | info | CAR UPDATED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:29:26.248Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:29:35.532Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:29:52.019Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:29:52.048Z | info | DB connection
+2025-11-19T15:29:52.485Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:29:56.354Z | info | CAR DELETED: 691dd1c9eabbe362290e18aa
+2025-11-19T15:30:27.694Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:30:27.731Z | info | DB connection
+2025-11-19T15:30:34.662Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:30:34.692Z | info | DB connection
+2025-11-19T15:30:39.412Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:30:39.438Z | info | DB connection
+2025-11-19T15:30:43.000Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:30:43.036Z | info | DB connection
+2025-11-19T15:30:47.044Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:30:47.074Z | info | DB connection
+2025-11-19T15:30:52.175Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:30:52.208Z | info | DB connection
+2025-11-19T15:33:44.373Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:33:44.423Z | info | DB connection
+2025-11-19T15:33:53.567Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:33:53.596Z | info | DB connection
+2025-11-19T15:33:55.513Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:33:55.546Z | info | DB connection
+2025-11-19T15:33:57.863Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:33:57.891Z | info | DB connection
+2025-11-19T15:34:06.316Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:06.343Z | info | DB connection
+2025-11-19T15:34:10.710Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:10.739Z | info | DB connection
+2025-11-19T15:34:16.241Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:16.276Z | info | DB connection
+2025-11-19T15:34:21.151Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:21.177Z | info | DB connection
+2025-11-19T15:34:26.764Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:26.799Z | info | DB connection
+2025-11-19T15:34:33.142Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:33.180Z | info | DB connection
+2025-11-19T15:34:44.113Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:44.144Z | info | DB connection
+2025-11-19T15:34:47.591Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:34:47.623Z | info | DB connection
+2025-11-19T15:37:17.808Z | warn | AUTH: Invalid or expired access token
+2025-11-19T15:37:17.811Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-19T15:37:31.890Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNTY0NzUzLCJleHAiOjE3NjQxNjk1NTN9.0k9A0I8wHY4QsV213PSW2IeR1uWGDyYZfutsbNPyoqM
+2025-11-19T15:37:51.851Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
