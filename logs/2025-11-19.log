@@ -714,3 +714,8 @@ Use mongoose.model(name, schema)
 2025-11-19T15:37:17.811Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
 2025-11-19T15:37:31.890Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNTY0NzUzLCJleHAiOjE3NjQxNjk1NTN9.0k9A0I8wHY4QsV213PSW2IeR1uWGDyYZfutsbNPyoqM
 2025-11-19T15:37:51.851Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-19T15:54:03.517Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:54:03.545Z | info | DB connection
+2025-11-19T15:54:47.690Z | info | Server is running on http://127.0.0.1:4000
+2025-11-19T15:54:47.716Z | info | DB connection
+2025-11-19T15:54:55.921Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com

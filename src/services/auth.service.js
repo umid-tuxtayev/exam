@@ -71,6 +71,10 @@ module.exports = {
         if (!user) throw new ClientError("User not found", 404);
         let password = await bcryptUtils.comparePassword(data.password, user.password);
         if (!password) throw new ClientError('User not found', 404);
+        if (user.isVerified === false) {
+            logger.warn(`User not verifid`);
+            throw new ClientError('User not virification', 400)
+        }
         let payload = { id: user._id, userAgent, role: user.role };
         let accessToken = createAccessToken(payload);
         let refreshToken = createRefreshToken(payload);
