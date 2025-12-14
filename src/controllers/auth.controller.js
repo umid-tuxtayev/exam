@@ -70,12 +70,15 @@ module.exports = {
 
     async login(req, res) {
         try {
+            logger.debug(`LOGIN REQUEST: ${req.body.email}`);
             const data = req.body;
-            logger.debug(`LOGIN REQUEST: ${data.email}`);
             let { accessToken, refreshToken } = await authService.login(data, req.headers['user-agent']);
 
             res.cookie('refreshToken', refreshToken, {
                 httpOnly: true,
+                secure: false,
+                sameSite: "lax",
+                path: '/',
                 maxAge: 7 * 24 * 60 * 60 * 1000,
             });
 
@@ -93,7 +96,9 @@ module.exports = {
 
             res.cookie('refreshToken', newRefreshToken, {
                 httpOnly: true,
-                sameSite: 'strict',
+                secure: false,
+                sameSite: "lax",
+                path: '/',
                 maxAge: 7 * 24 * 60 * 60 * 1000
             });
 

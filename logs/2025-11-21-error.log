@@ -1,0 +1,548 @@
+2025-11-21T09:49:55.755Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:49:55.803Z | info | DB connection
+2025-11-21T09:49:56.867Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:49:56.899Z | info | DB connection
+2025-11-21T09:51:13.694Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:51:13.719Z | info | DB connection
+2025-11-21T09:51:19.694Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:51:19.718Z | info | DB connection
+2025-11-21T09:51:29.166Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T09:51:29.271Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T09:51:30.385Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:51:30.407Z | info | DB connection
+2025-11-21T09:52:28.850Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:52:28.870Z | info | DB connection
+2025-11-21T09:52:41.169Z | error | LOGIN ERROR: Cannot access 'data' before initialization
+2025-11-21T09:53:07.630Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:53:07.665Z | info | DB connection
+2025-11-21T09:53:11.854Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T09:53:11.888Z | info | DB connection
+2025-11-21T09:53:13.513Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T09:53:13.594Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T10:00:50.370Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T10:00:50.394Z | info | DB connection
+2025-11-21T11:09:42.468Z | info | AUTH: No authorization header
+2025-11-21T11:09:42.475Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:09:42.486Z | info | AUTH: No authorization header
+2025-11-21T11:09:42.486Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:09:42.543Z | info | AUTH: No authorization header
+2025-11-21T11:09:42.544Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:09:47.569Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:09:47.596Z | info | DB connection
+2025-11-21T11:09:48.523Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:09:48.550Z | info | DB connection
+2025-11-21T11:09:51.491Z | info | AUTH: No authorization header
+2025-11-21T11:09:51.493Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:09:51.499Z | info | AUTH: No authorization header
+2025-11-21T11:09:51.500Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:09:51.524Z | info | AUTH: No authorization header
+2025-11-21T11:09:51.525Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:10:18.084Z | info | AUTH: No authorization header
+2025-11-21T11:10:18.086Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:10:18.090Z | info | AUTH: No authorization header
+2025-11-21T11:10:18.091Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:10:18.102Z | info | AUTH: No authorization header
+2025-11-21T11:10:18.103Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:10:52.754Z | info | AUTH: No authorization header
+2025-11-21T11:10:52.755Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:10:52.759Z | info | AUTH: No authorization header
+2025-11-21T11:10:52.760Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:10:52.773Z | info | AUTH: No authorization header
+2025-11-21T11:10:52.775Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:11:06.647Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:11:06.976Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T11:11:07.256Z | info | AUTH: No authorization header
+2025-11-21T11:11:07.257Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:11:07.264Z | info | AUTH: No authorization header
+2025-11-21T11:11:07.264Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:11:07.277Z | info | AUTH: No authorization header
+2025-11-21T11:11:07.278Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:11:42.484Z | info | AUTH: No authorization header
+2025-11-21T11:11:42.485Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:11:42.488Z | info | AUTH: No authorization header
+2025-11-21T11:11:42.489Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:11:42.499Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:12:36.144Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:12:36.172Z | info | DB connection
+2025-11-21T11:12:44.948Z | info | AUTH: No authorization header
+2025-11-21T11:12:44.950Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:12:44.956Z | info | AUTH: No authorization header
+2025-11-21T11:12:44.957Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:12:44.990Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:16:31.420Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:16:31.448Z | info | DB connection
+2025-11-21T11:17:00.960Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:17:00.998Z | info | DB connection
+2025-11-21T11:17:09.855Z | info | AUTH: No authorization header
+2025-11-21T11:17:09.857Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:17:09.867Z | info | AUTH: No authorization header
+2025-11-21T11:17:09.868Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:17:09.913Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:19:06.752Z | info | AUTH: No authorization header
+2025-11-21T11:19:06.753Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:19:06.758Z | info | AUTH: No authorization header
+2025-11-21T11:19:06.759Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:19:06.773Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:20:35.692Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:20:35.724Z | info | DB connection
+2025-11-21T11:20:56.434Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:20:56.460Z | info | DB connection
+2025-11-21T11:20:59.655Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:20:59.686Z | info | DB connection
+2025-11-21T11:21:00.436Z | info | AUTH: No authorization header
+2025-11-21T11:21:00.438Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:21:00.444Z | info | AUTH: No authorization header
+2025-11-21T11:21:00.445Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:21:00.472Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:24:52.071Z | info | AUTH: No authorization header
+2025-11-21T11:24:52.072Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:24:52.077Z | info | AUTH: No authorization header
+2025-11-21T11:24:52.078Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:24:52.092Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:26:38.148Z | info | AUTH: No authorization header
+2025-11-21T11:26:38.149Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:26:38.153Z | info | AUTH: No authorization header
+2025-11-21T11:26:38.154Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:26:38.169Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:27:25.453Z | info | AUTH: No authorization header
+2025-11-21T11:27:25.454Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:27:25.458Z | info | AUTH: No authorization header
+2025-11-21T11:27:25.459Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:27:25.468Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:27:59.811Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:27:59.836Z | info | DB connection
+2025-11-21T11:28:15.233Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:28:15.495Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T11:28:15.804Z | info | AUTH: No authorization header
+2025-11-21T11:28:15.805Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:28:15.810Z | info | AUTH: No authorization header
+2025-11-21T11:28:15.811Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:28:15.823Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:29:42.298Z | info | AUTH: No authorization header
+2025-11-21T11:29:42.299Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:29:42.305Z | info | AUTH: No authorization header
+2025-11-21T11:29:42.306Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:29:42.318Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:31:10.563Z | info | AUTH: No authorization header
+2025-11-21T11:31:10.564Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:31:10.568Z | info | AUTH: No authorization header
+2025-11-21T11:31:10.569Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:31:10.580Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:33:07.986Z | info | AUTH: No authorization header
+2025-11-21T11:33:07.987Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:33:07.991Z | info | AUTH: No authorization header
+2025-11-21T11:33:07.992Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:33:08.003Z | error | REFRESH ERROR: ClientError: Token missing !
+2025-11-21T11:33:27.842Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWVlYzI2ZTRhYTYwZTM1YTFmZjNjZiIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNjM0NjM3LCJleHAiOjE3NjQyMzk0Mzd9.u0MH9oBVE4yDozX3WjEkaBhbmRuTtfc94803IQh-GU8
+2025-11-21T11:34:09.316Z | info | AUTH: No authorization header
+2025-11-21T11:34:09.317Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:34:17.284Z | info | AUTH: No authorization header
+2025-11-21T11:34:17.286Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:34:24.680Z | info | AUTH: No authorization header
+2025-11-21T11:34:24.681Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:35:01.575Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:35:01.633Z | info | DB connection
+2025-11-21T11:35:04.611Z | info | AUTH: No authorization header
+2025-11-21T11:35:04.613Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T11:35:16.976Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:35:17.032Z | info | DB connection
+2025-11-21T11:35:18.326Z | debug | AUTH: Authorized user utuxtayev21@gmail.com
+2025-11-21T11:35:18.328Z | debug | GET ALL CATIGORI REQUEST: utuxtayev21@gmail.com
+2025-11-21T11:35:34.932Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:35:34.933Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:35:34.947Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:35:34.949Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:35:49.458Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:35:49.680Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T11:35:50.002Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:35:50.003Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:35:50.019Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:35:50.020Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:35:53.803Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:35:53.804Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:35:53.817Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:35:53.818Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:36:24.283Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:36:24.285Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:36:24.297Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:36:24.298Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:36:48.797Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:36:48.798Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:36:48.809Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:36:48.810Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:37:20.163Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:37:20.164Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:37:20.175Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:37:20.176Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:37:41.814Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:37:41.814Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:37:41.825Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:37:41.826Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:38:00.963Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:38:00.964Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:38:00.976Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:38:00.977Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:38:25.221Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:38:25.222Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:38:25.236Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:38:25.237Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:39:00.378Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:39:00.440Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:41:04.534Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:41:04.557Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:42:34.862Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:42:34.879Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:43:43.567Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:43:43.568Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:43:43.578Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:43:43.579Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:43:46.988Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:43:46.989Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:43:47.001Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:43:47.002Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:44:07.895Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:44:07.895Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:44:10.897Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:44:10.898Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:44:10.907Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:44:10.909Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:10.580Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:10.581Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:13.583Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:13.585Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:21.868Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:21.869Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:21.882Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:21.883Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:40.833Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:40.834Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:40.845Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:40.846Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:47.108Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:47.109Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:47.118Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:47.119Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:49.189Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:49.190Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:45:49.200Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:45:49.201Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:46:32.215Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:46:32.216Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:46:32.227Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:46:32.228Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:47:19.579Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:47:19.580Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:47:19.591Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:47:19.592Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:50:30.201Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:50:30.236Z | info | DB connection
+2025-11-21T11:50:31.388Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:50:31.413Z | info | DB connection
+2025-11-21T11:51:18.460Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:51:18.505Z | info | DB connection
+2025-11-21T11:51:25.102Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:51:25.148Z | info | DB connection
+2025-11-21T11:51:29.251Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:51:29.294Z | info | DB connection
+2025-11-21T11:51:39.681Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:51:39.717Z | info | DB connection
+2025-11-21T11:52:00.979Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:01.025Z | info | DB connection
+2025-11-21T11:52:03.358Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:03.387Z | info | DB connection
+2025-11-21T11:52:06.045Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:06.072Z | info | DB connection
+2025-11-21T11:52:08.057Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:08.091Z | info | DB connection
+2025-11-21T11:52:09.912Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:09.937Z | info | DB connection
+2025-11-21T11:52:12.338Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:12.364Z | info | DB connection
+2025-11-21T11:52:14.298Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:14.324Z | info | DB connection
+2025-11-21T11:52:16.212Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:16.253Z | info | DB connection
+2025-11-21T11:52:19.942Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T11:52:19.967Z | info | DB connection
+2025-11-21T11:52:23.580Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:52:23.582Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:52:23.602Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:52:23.604Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:54:02.627Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:54:02.630Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T11:54:23.594Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T11:54:23.596Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:00:38.251Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:00:38.259Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:00:38.290Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:00:38.292Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:05:31.703Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:05:31.707Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:05:45.103Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:05:48.381Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:05:51.924Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:05:51.927Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:05:56.733Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:05:56.733Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:05:56.741Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:05:56.742Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:07:24.224Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:07:24.225Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:07:25.886Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:07:25.887Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:07:25.894Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:07:25.895Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:08:06.495Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:08:06.496Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:08:06.501Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:08:06.502Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:08:54.772Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:08:54.773Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:08:54.778Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:08:54.779Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:08:56.801Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:08:56.803Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:08:56.814Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:08:56.819Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:09:22.371Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:09:22.372Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:09:22.378Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:09:22.379Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:09:26.023Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:09:26.024Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:09:26.028Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:09:26.029Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:09:40.360Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:09:40.361Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:09:40.367Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:09:40.368Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:12:36.643Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:12:36.644Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:12:36.649Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:12:36.650Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:12:49.780Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:12:53.859Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T12:12:53.905Z | info | DB connection
+2025-11-21T12:12:55.267Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T12:12:55.300Z | info | DB connection
+2025-11-21T12:13:01.095Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:13:01.192Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T12:13:01.514Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:13:01.515Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:13:01.534Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:13:01.536Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:13:19.583Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:13:19.585Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:13:28.355Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:13:33.051Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:16:30.618Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:16:30.619Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:16:30.633Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:16:30.634Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:18:19.609Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:18:19.610Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:19:20.495Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:19:20.512Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:19:25.520Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:19:25.521Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:19:25.543Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:19:25.544Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:19:31.484Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:19:31.511Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:20:35.581Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:20:41.570Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:20:43.477Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:20:43.494Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:30:04.586Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T12:30:04.638Z | info | DB connection
+2025-11-21T12:34:09.749Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:34:09.833Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:34:15.495Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:34:15.496Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:34:15.517Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:34:15.518Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:35:59.174Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:35:59.177Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:35:59.191Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:35:59.192Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:36:05.163Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:36:05.164Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:36:05.177Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:36:05.178Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:36:10.088Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:36:10.089Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:36:10.102Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:36:10.103Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:36:34.333Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:36:34.334Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:36:34.346Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:36:34.348Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:38:04.019Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:38:04.020Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:38:04.036Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:38:04.037Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:38:26.448Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:38:26.449Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:38:26.459Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:38:26.460Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:38:36.013Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:38:36.014Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:38:36.023Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:38:36.024Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:19.301Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:19.302Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:19.314Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:19.315Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:30.720Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:30.721Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:30.732Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:30.733Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:44.472Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:44.472Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:44.485Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:44.485Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:56.415Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:56.416Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:39:56.428Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:39:56.428Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:41:09.548Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:41:09.549Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:41:09.558Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:41:09.559Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:41:26.632Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:41:26.633Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:41:26.644Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:41:26.645Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:41:59.968Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:41:59.969Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:41:59.980Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:41:59.981Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:44:33.538Z | info | AUTH: No authorization header
+2025-11-21T12:44:33.539Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T12:44:56.890Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:44:56.891Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:44:56.896Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:44:56.897Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:45:04.003Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:45:04.004Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:45:04.011Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:45:04.012Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:46:21.358Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWVlYzI2ZTRhYTYwZTM1YTFmZjNjZiIsInVzZXJBZ2VudCI6IlBvc3RtYW5SdW50aW1lLzcuNDkuMSIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzYzNzI0ODA3LCJleHAiOjE3NjQzMjk2MDd9.XptIBg8BP_raZnPJcnAJ87o6STnbbEdlotcnQytOE08
+2025-11-21T12:47:34.860Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:47:34.861Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:47:34.867Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:47:34.868Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:47:37.859Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:47:37.860Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:47:37.864Z | warn | AUTH: Invalid or expired access token
+2025-11-21T12:47:37.865Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T12:47:51.884Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:47:51.980Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-11-21T12:47:52.264Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:47:52.265Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:47:52.277Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:47:52.278Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:47:55.805Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:47:55.831Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:47:58.588Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:47:58.588Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:47:58.598Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:47:58.599Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:48:06.566Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:48:06.567Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:48:06.580Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:48:06.581Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:48:56.841Z | info | AUTH: No authorization header
+2025-11-21T12:48:56.842Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T12:49:29.619Z | info | AUTH: No authorization header
+2025-11-21T12:49:29.621Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T12:49:37.664Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:49:37.678Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:49:42.300Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:49:42.314Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:49:54.293Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T12:49:54.326Z | info | DB connection
+2025-11-21T12:49:56.737Z | info | AUTH: No authorization header
+2025-11-21T12:49:56.738Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T12:50:37.580Z | info | AUTH: No authorization header
+2025-11-21T12:50:37.581Z | error | AUTH ERROR: ClientError: Authorization header missing !
+2025-11-21T12:54:24.064Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:54:26.952Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:56:32.583Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:56:32.583Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:56:33.561Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:56:33.562Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:57:37.024Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:57:37.025Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:57:37.041Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:57:37.042Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:58:26.585Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:58:30.480Z | info | 691eee2490c330c22c4993a0
+2025-11-21T12:58:30.533Z | info | CAR CREATED: 692061f64dfa5e73c8b2e539
+2025-11-21T12:58:44.631Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:58:44.632Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:58:44.645Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:58:44.645Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T12:58:47.059Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T12:58:47.085Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:00:19.610Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:00:21.946Z | info | 691eee2490c330c22c4993a0
+2025-11-21T13:00:21.958Z | info | CAR CREATED: 692062654dfa5e73c8b2e547
+2025-11-21T13:00:35.273Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:00:35.290Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:15.002Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:15.017Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:15.097Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:15.098Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:04:15.108Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:15.109Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:04:16.754Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:16.769Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:16.790Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:16.791Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:04:16.804Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:04:16.805Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:05:23.106Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:05:23.139Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:05:23.143Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:05:23.153Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:05:23.181Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:05:23.184Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:13:45.180Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:13:45.234Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:13:45.640Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:13:45.641Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:13:45.652Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:13:45.652Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:14:29.579Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:14:29.580Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:14:49.569Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:14:49.570Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:14:54.558Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:14:54.558Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:15:02.568Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:02.568Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:15:11.067Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:11.080Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:15.669Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:15.671Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:15:15.680Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:15.681Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:15:18.111Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:18.127Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:23.922Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:23.923Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:15:23.932Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-11-21T13:15:23.933Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-11-21T13:15:34.165Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T13:15:34.194Z | info | DB connection
+2025-11-21T13:15:35.336Z | info | Server is running on http://127.0.0.1:4000
+2025-11-21T13:15:35.368Z | info | DB connection
+2025-11-21T13:50:45.084Z | warn | AUTH: Invalid or expired access token
+2025-11-21T13:50:45.090Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T13:50:45.110Z | warn | AUTH: Invalid or expired access token
+2025-11-21T13:50:45.111Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T13:50:45.155Z | warn | AUTH: Invalid or expired access token
+2025-11-21T13:50:45.155Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-11-21T13:50:45.160Z | warn | AUTH: Invalid or expired access token
+2025-11-21T13:50:45.163Z | error | AUTH ERROR: ClientError: Access token invalid or expired !

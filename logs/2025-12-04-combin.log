@@ -1,0 +1,868 @@
+2025-12-03T19:05:56.738Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:05:56.762Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:05:56.773Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:05:56.775Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:05:56.862Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg4MzU4LCJleHAiOjE3NjUzOTMxNTh9.r4T50B8pjsWrKwT_FTrgK1w_2e9SfNitAR6idPAXH14
+2025-12-03T19:05:56.868Z | error | REFRESH ERROR: ClientError: Token invalid or userAgent mismatch !
+2025-12-03T19:05:56.879Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:05:56.880Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:06:15.876Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:15.898Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:20.593Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:20.596Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:06:20.617Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:20.619Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:06:22.812Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:22.830Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:27.400Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:27.403Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:06:27.424Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:27.426Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:06:30.360Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:30.379Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:33.451Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg4NzU2LCJleHAiOjE3NjUzOTM1NTZ9.ZSm2HeCWdI1ib_OUjpp8fUtXSacIxvd3LEmDMWs3W0s
+2025-12-03T19:06:38.982Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:38.983Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:06:39.006Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:06:39.007Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:08:13.987Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:08:13.988Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:08:13.993Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:08:13.994Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:08:14.057Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg4NzkzLCJleHAiOjE3NjUzOTM1OTN9.vVuEBVBY0LJ98wJS_Qxg3NzFzCoHjjEsszhtt-aS1Gs
+2025-12-03T19:08:14.062Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg4NzkzLCJleHAiOjE3NjUzOTM1OTN9.vVuEBVBY0LJ98wJS_Qxg3NzFzCoHjjEsszhtt-aS1Gs
+2025-12-03T19:08:14.073Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:08:14.074Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:08:14.088Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:08:14.089Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:08:33.816Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:08:33.817Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:08:33.834Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:08:33.835Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:08:38.505Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:08:38.507Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:08:38.528Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:08:38.530Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:10:26.540Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:10:26.542Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:10:26.555Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:10:26.556Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:10:26.649Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg4ODk0LCJleHAiOjE3NjUzOTM2OTR9.XDhEMXpINN9H3vXHEIdTjAgv12bxaEPKO-079PHGQB8
+2025-12-03T19:10:26.653Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg4ODk0LCJleHAiOjE3NjUzOTM2OTR9.XDhEMXpINN9H3vXHEIdTjAgv12bxaEPKO-079PHGQB8
+2025-12-03T19:10:26.678Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:10:26.681Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:10:26.705Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:10:26.706Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:11:16.396Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:11:16.397Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:11:16.408Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:11:16.409Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:11:20.727Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:11:20.728Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:11:20.742Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:11:20.743Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:11:22.781Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5MDI2LCJleHAiOjE3NjUzOTM4MjZ9.wV2Lxs_unwkg5xTf2Ln_sRzDpKM2XViG967fLsGRIWA
+2025-12-03T19:11:26.837Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:11:26.838Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:11:26.849Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:11:26.851Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:15:20.647Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:15:20.649Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:15:20.659Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:15:20.660Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:15:20.701Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5MDgyLCJleHAiOjE3NjUzOTM4ODJ9.34Kyobr5A9U8igd4t5xmzHfi0CW_Hnlhw4vVDz0KpHU
+2025-12-03T19:15:20.703Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5MDgyLCJleHAiOjE3NjUzOTM4ODJ9.34Kyobr5A9U8igd4t5xmzHfi0CW_Hnlhw4vVDz0KpHU
+2025-12-03T19:15:20.721Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:15:20.722Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:15:20.733Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:15:20.734Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:15.681Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:18:15.682Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:18:15.689Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:18:15.690Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:18:15.751Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5MzIwLCJleHAiOjE3NjUzOTQxMjB9.fjobkjsDdTb8THnyKPB9yiEvgs1mCG0XppcSiob-lAY
+2025-12-03T19:18:15.753Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5MzIwLCJleHAiOjE3NjUzOTQxMjB9.fjobkjsDdTb8THnyKPB9yiEvgs1mCG0XppcSiob-lAY
+2025-12-03T19:18:15.767Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:15.768Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:15.783Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:15.785Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:19.549Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:19.550Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:19.572Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:19.574Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:23.966Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:23.967Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:23.978Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:23.979Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:27.006Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:27.007Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:18:27.025Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:18:27.029Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:19:49.268Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:19:49.270Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:19:49.279Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:19:49.281Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:19:49.342Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5NDk1LCJleHAiOjE3NjUzOTQyOTV9.e20X99eYhbG8AUFvUVW_FXvycrLFANh0qOfqZKtjMmA
+2025-12-03T19:19:49.346Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5NDk1LCJleHAiOjE3NjUzOTQyOTV9.e20X99eYhbG8AUFvUVW_FXvycrLFANh0qOfqZKtjMmA
+2025-12-03T19:19:49.357Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:19:49.358Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:19:49.372Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:19:49.375Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:20:27.846Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:20:27.847Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:20:27.859Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:20:27.860Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:21:38.980Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:21:38.981Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:21:38.988Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:21:38.989Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:21:39.063Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5NTg5LCJleHAiOjE3NjUzOTQzODl9.MqIO8T3st3dqLiHBP2w4niRroYul8aCzQ3jhfRDVyZQ
+2025-12-03T19:21:39.065Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5NTg5LCJleHAiOjE3NjUzOTQzODl9.MqIO8T3st3dqLiHBP2w4niRroYul8aCzQ3jhfRDVyZQ
+2025-12-03T19:21:39.079Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:21:39.080Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:21:39.094Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:21:39.095Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:24:01.344Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5Njk5LCJleHAiOjE3NjUzOTQ0OTl9.Z269OUzrG5oBntnTkPF66Nc1aNpIrW2DIBjkdc7kn0c
+2025-12-03T19:24:05.771Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:24:05.772Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:24:05.787Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:24:05.789Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:25:15.099Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:25:15.101Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:25:15.115Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:25:15.117Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:25:15.191Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5ODQxLCJleHAiOjE3NjUzOTQ2NDF9.Z2M5CZQl55vJn8MbLvjx5jW45PBvi3BFmtH8ScYysqU
+2025-12-03T19:25:15.193Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5ODQxLCJleHAiOjE3NjUzOTQ2NDF9.Z2M5CZQl55vJn8MbLvjx5jW45PBvi3BFmtH8ScYysqU
+2025-12-03T19:25:15.206Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:25:15.207Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:25:15.218Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:25:15.219Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:27:01.411Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:27:01.413Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:27:01.423Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:27:01.425Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:27:01.509Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5OTE1LCJleHAiOjE3NjUzOTQ3MTV9.ZZcSKudf5sveOmwuQ7dL010iLhwef8-A9ZSz_YWwrpQ
+2025-12-03T19:27:01.513Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzg5OTE1LCJleHAiOjE3NjUzOTQ3MTV9.ZZcSKudf5sveOmwuQ7dL010iLhwef8-A9ZSz_YWwrpQ
+2025-12-03T19:27:01.527Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:27:01.528Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:27:01.538Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:27:01.539Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:27:09.127Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:27:09.128Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:27:09.140Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:27:09.141Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:27:16.319Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:27:16.320Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:27:16.333Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:27:16.335Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:28:04.206Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:28:04.210Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:28:04.216Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:28:04.217Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:28:04.268Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMDIxLCJleHAiOjE3NjUzOTQ4MjF9.gxMNTwFt2P2qpRT2z0Fnbh_aCfcMYaKGiGuxMthDSN0
+2025-12-03T19:28:04.271Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMDIxLCJleHAiOjE3NjUzOTQ4MjF9.gxMNTwFt2P2qpRT2z0Fnbh_aCfcMYaKGiGuxMthDSN0
+2025-12-03T19:28:04.298Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:28:04.299Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:28:04.311Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:28:04.312Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:30:40.458Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:30:40.459Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:30:40.465Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:30:40.466Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:30:46.588Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:30:46.589Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:30:46.594Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:30:46.595Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:31:03.707Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:31:03.709Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:31:03.715Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:31:03.716Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:31:03.766Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMDg0LCJleHAiOjE3NjUzOTQ4ODR9.dVkcmMC3N8_d5blJd3dPGlojzBBvMG-Y5WwIv0mraOM
+2025-12-03T19:31:03.767Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMDg0LCJleHAiOjE3NjUzOTQ4ODR9.dVkcmMC3N8_d5blJd3dPGlojzBBvMG-Y5WwIv0mraOM
+2025-12-03T19:31:03.778Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:31:03.779Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:31:03.786Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:31:03.787Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:31:24.739Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:31:24.740Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:31:24.751Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:31:24.751Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:32:04.612Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:32:04.613Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:32:04.621Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:32:04.623Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:32:04.680Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMjYzLCJleHAiOjE3NjUzOTUwNjN9.i33yZbSq4mIKmYNKYgFK8Ae2qssjN9ZWDREUsFIZB5U
+2025-12-03T19:32:04.683Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMjYzLCJleHAiOjE3NjUzOTUwNjN9.i33yZbSq4mIKmYNKYgFK8Ae2qssjN9ZWDREUsFIZB5U
+2025-12-03T19:32:04.698Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:32:04.699Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:32:04.742Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:32:04.743Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:32:49.773Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:32:49.774Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:32:49.795Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:32:49.797Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:32:53.540Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:32:53.543Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:32:53.565Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:32:53.568Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:34:16.976Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:34:16.977Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:34:16.985Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:34:16.986Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:34:17.048Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMzI0LCJleHAiOjE3NjUzOTUxMjR9.S-Y7fbAGafiSI8PaslRcL5X3vg4QRJBF81arXyQ65Eo
+2025-12-03T19:34:17.052Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwMzI0LCJleHAiOjE3NjUzOTUxMjR9.S-Y7fbAGafiSI8PaslRcL5X3vg4QRJBF81arXyQ65Eo
+2025-12-03T19:34:17.070Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:34:17.072Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:34:17.084Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:34:17.085Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:34:48.980Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:34:48.981Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:34:48.994Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:34:48.995Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:35:26.524Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:35:26.524Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:35:26.531Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:35:26.532Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:35:26.588Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNDU3LCJleHAiOjE3NjUzOTUyNTd9.6eg1e24pr9sjD1CRWoRxbwe5lffQIWllM-1bDWP7RjA
+2025-12-03T19:35:26.591Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNDU3LCJleHAiOjE3NjUzOTUyNTd9.6eg1e24pr9sjD1CRWoRxbwe5lffQIWllM-1bDWP7RjA
+2025-12-03T19:35:26.606Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:35:26.607Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:35:26.618Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:35:26.619Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:38:12.735Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:38:12.736Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:38:12.741Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:38:12.742Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:38:12.785Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNTI2LCJleHAiOjE3NjUzOTUzMjZ9.Bifjhcj_VAzyRBm3JyjQNOgUeY_NqpQgSSU6K3ui1ik
+2025-12-03T19:38:12.786Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNTI2LCJleHAiOjE3NjUzOTUzMjZ9.Bifjhcj_VAzyRBm3JyjQNOgUeY_NqpQgSSU6K3ui1ik
+2025-12-03T19:38:12.797Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:38:12.798Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:38:12.805Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:38:12.806Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:38:16.586Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:38:16.588Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:38:16.620Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:38:16.621Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:39:42.921Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:39:42.922Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:39:42.928Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:39:42.968Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:39:43.027Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNjkyLCJleHAiOjE3NjUzOTU0OTJ9.URQmfOUbJ0qR7Hm4dIH8Axzt_uvd3D5nzNqsiBZouos
+2025-12-03T19:39:43.030Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNjkyLCJleHAiOjE3NjUzOTU0OTJ9.URQmfOUbJ0qR7Hm4dIH8Axzt_uvd3D5nzNqsiBZouos
+2025-12-03T19:39:43.043Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:39:43.043Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:39:43.054Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:39:43.055Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:45:01.219Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:45:01.220Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:45:01.226Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:45:01.227Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:45:01.291Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNzgzLCJleHAiOjE3NjUzOTU1ODN9.2dECDBbT1dxtmRIpI8FCMPEOE-YkTo-WIiQSdt4nGEo
+2025-12-03T19:45:01.295Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkwNzgzLCJleHAiOjE3NjUzOTU1ODN9.2dECDBbT1dxtmRIpI8FCMPEOE-YkTo-WIiQSdt4nGEo
+2025-12-03T19:45:01.309Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:45:01.310Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:45:01.323Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:45:01.324Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:45:13.159Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:45:13.160Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:45:13.172Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:45:13.173Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:45:51.523Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:45:51.524Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:45:51.534Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:45:51.535Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:46:16.824Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:46:16.826Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:46:16.835Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:46:16.837Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:46:16.903Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxMTAxLCJleHAiOjE3NjUzOTU5MDF9.ZguvKa6sCNliwRTNv7v193ITzMXbtBoT1GIjkzMJuWc
+2025-12-03T19:46:16.907Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxMTAxLCJleHAiOjE3NjUzOTU5MDF9.ZguvKa6sCNliwRTNv7v193ITzMXbtBoT1GIjkzMJuWc
+2025-12-03T19:46:16.919Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:46:16.920Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:46:16.936Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:46:16.938Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:47:56.530Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:47:56.531Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:47:56.536Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:47:56.536Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:47:56.577Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxMTc2LCJleHAiOjE3NjUzOTU5NzZ9.W7EbS2pTvjpl4U80f1WtWImWSrbAZVSOOovh-p0po8Q
+2025-12-03T19:47:56.579Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxMTc2LCJleHAiOjE3NjUzOTU5NzZ9.W7EbS2pTvjpl4U80f1WtWImWSrbAZVSOOovh-p0po8Q
+2025-12-03T19:47:56.589Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:47:56.590Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:47:56.596Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:47:56.597Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:17.802Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:52:17.803Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:52:17.809Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:52:17.810Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:52:17.849Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxMjc2LCJleHAiOjE3NjUzOTYwNzZ9.KFEw0rVzkvDxyENfE-cSWtHYm9qSarAUWYkuMked5sk
+2025-12-03T19:52:17.851Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxMjc2LCJleHAiOjE3NjUzOTYwNzZ9.KFEw0rVzkvDxyENfE-cSWtHYm9qSarAUWYkuMked5sk
+2025-12-03T19:52:17.864Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:17.865Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:17.875Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:17.876Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:19.447Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:19.449Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:19.459Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:19.460Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:20.551Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:20.552Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:20.564Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:20.565Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:22.767Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:22.768Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:52:22.786Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:52:22.788Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:53:57.425Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:53:57.425Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:53:57.433Z | warn | AUTH: Invalid or expired access token
+2025-12-03T19:53:57.433Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T19:53:57.484Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxNTM3LCJleHAiOjE3NjUzOTYzMzd9.D56a8i2zLoNsJDi68-0RAoTH4mukas-v9F1L2glSpz0
+2025-12-03T19:53:57.490Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxNTM3LCJleHAiOjE3NjUzOTYzMzd9.D56a8i2zLoNsJDi68-0RAoTH4mukas-v9F1L2glSpz0
+2025-12-03T19:53:57.504Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:53:57.505Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T19:53:57.516Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T19:53:57.517Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:02:49.609Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:02:49.610Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:02:49.616Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:02:49.616Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:02:49.648Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkxNjM3LCJleHAiOjE3NjUzOTY0Mzd9.T01Gc-NLHc2IZwzko_ihZWoT13nHff6h9icfCleT5Xs
+2025-12-03T20:02:49.664Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:02:49.665Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:02:49.676Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:02:49.677Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:02:52.408Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:02:52.409Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:02:52.420Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:02:52.421Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:02:57.433Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyMTY5LCJleHAiOjE3NjUzOTY5Njl9.oIQ_H6CMoxzORzw6dobbmPbWd54AomGXJuzdFZbugWo
+2025-12-03T20:02:58.752Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:02:58.754Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:02:58.771Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:02:58.772Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:03:01.663Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:03:01.665Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:03:01.685Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:03:01.688Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:02.658Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:06:02.659Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:06:02.665Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:06:02.665Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:06:02.686Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyMTc3LCJleHAiOjE3NjUzOTY5Nzd9.akHbCHPuAQDYvnHqLKq372lUaTR46rNYJP8chtefWok
+2025-12-03T20:06:02.701Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:02.702Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:02.715Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:02.716Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:29.386Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:06:29.417Z | info | DB connection
+2025-12-03T20:06:30.672Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:06:30.701Z | info | DB connection
+2025-12-03T20:06:43.759Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:06:43.787Z | info | DB connection
+2025-12-03T20:06:46.854Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:06:46.895Z | info | DB connection
+2025-12-03T20:06:48.582Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:48.583Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:48.595Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:48.596Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:50.316Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyMzYyLCJleHAiOjE3NjUzOTcxNjJ9.8PvtcDQtvVJANIB2M9M-Y43BpphJVbZ3n6yZbBQh4dM
+2025-12-03T20:06:51.521Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:06:51.551Z | info | DB connection
+2025-12-03T20:06:55.317Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:55.318Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:55.330Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:55.331Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:58.579Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:58.580Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:58.616Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:58.618Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:59.717Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:59.718Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:06:59.736Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:06:59.737Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:00.592Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:00.593Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:00.623Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:00.625Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:01.522Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:01.524Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:01.543Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:01.544Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:02.407Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:02.407Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:02.422Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:02.423Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:03.320Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:03.321Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:03.339Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:03.340Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:04.231Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:04.232Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:04.246Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:04.247Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:07.194Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:07:07.196Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:07:07.204Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:07:07.206Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:07:07.372Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDEwLCJleHAiOjE3NjUzOTcyMTB9.1O_rZi-j5gHyN_Ro4N7KuyEPX0kL-Bje3D4KVUqY33s
+2025-12-03T20:07:07.379Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDEwLCJleHAiOjE3NjUzOTcyMTB9.1O_rZi-j5gHyN_Ro4N7KuyEPX0kL-Bje3D4KVUqY33s
+2025-12-03T20:07:07.403Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:07.404Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:07.431Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:07.432Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:24.424Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:07:24.425Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:07:24.432Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:07:24.432Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:07:24.501Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDI3LCJleHAiOjE3NjUzOTcyMjd9.2lkqwh22WlSuIqYAZtd4B6xsgoDa4Tz5lXJiTrwwkEM
+2025-12-03T20:07:24.504Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDI3LCJleHAiOjE3NjUzOTcyMjd9.2lkqwh22WlSuIqYAZtd4B6xsgoDa4Tz5lXJiTrwwkEM
+2025-12-03T20:07:24.521Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:24.522Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:24.531Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:24.532Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:25.569Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:25.570Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:25.591Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:25.592Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:26.908Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:26.909Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:26.922Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:26.923Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:27.896Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:27.896Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:27.907Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:27.908Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:28.886Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:28.887Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:28.900Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:28.900Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.258Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.259Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.269Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.271Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.711Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.712Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.724Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:29.725Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.067Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.068Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.079Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.080Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.587Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.588Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.598Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.599Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.961Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.962Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.973Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:30.973Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.365Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.366Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.376Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.377Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.780Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.781Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.791Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:31.792Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.211Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.211Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.221Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.221Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.737Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.738Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.749Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:32.750Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.247Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.248Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.256Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.257Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.760Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.760Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.770Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:33.771Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.159Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.160Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.170Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.171Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.588Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.589Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.598Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.598Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.983Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.983Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.995Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:34.997Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:35.581Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:35.581Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:35.592Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:35.593Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:38.508Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:38.508Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:38.522Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:38.523Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:40.855Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:07:40.856Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:07:40.865Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:07:40.866Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:07:40.912Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDQ0LCJleHAiOjE3NjUzOTcyNDR9.AJlhn6jVmwcBNqwFE1SGmErqow-lvdUe-BRoSQklbsg
+2025-12-03T20:07:40.914Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDQ0LCJleHAiOjE3NjUzOTcyNDR9.AJlhn6jVmwcBNqwFE1SGmErqow-lvdUe-BRoSQklbsg
+2025-12-03T20:07:40.924Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:40.925Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:40.931Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:40.931Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:53.080Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:53.080Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:07:53.091Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:07:53.091Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:09:35.314Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:09:35.315Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:09:35.320Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:09:35.320Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:09:35.356Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNDYwLCJleHAiOjE3NjUzOTcyNjB9.jyuk9nbK8aAZPB-hdRAlt9qI43_-XFSImTgR4AaYhPw
+2025-12-03T20:09:35.372Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:09:35.373Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:09:35.383Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:09:35.384Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:09:36.829Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:09:36.829Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:09:36.841Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:09:36.842Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:10:11.256Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:10:11.257Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:10:11.262Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:10:11.263Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:10:11.304Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyNTc1LCJleHAiOjE3NjUzOTczNzV9.8Kirq_cD3VtexUJg-QyV0u9asgNKC9GkoH8Ic9qXdxg
+2025-12-03T20:10:11.321Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:10:11.323Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:10:11.334Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:10:11.336Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:13:48.447Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:13:48.447Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:13:48.453Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:13:48.456Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:13:50.631Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:13:50.632Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:13:50.638Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:13:50.639Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:13:51.941Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:13:51.942Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:13:51.946Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:13:51.947Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:14:23.711Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:14:23.712Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:14:23.717Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:14:23.718Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:14:55.151Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:14:55.152Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:14:55.161Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:14:55.164Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:15:28.027Z | debug | LOGIN REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:15:28.234Z | info | LOGIN SUCCESS: tuxtayevumid55@gmail.com
+2025-12-03T20:15:28.583Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:15:28.584Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:15:28.600Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:15:28.602Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:17:42.141Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:17:42.142Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:17:42.149Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:17:42.150Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:18:08.840Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:18:08.841Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:18:08.847Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:18:08.848Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:18:39.566Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:18:39.567Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:18:39.572Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:18:39.573Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:18:41.715Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:18:41.716Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:18:41.721Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:18:41.722Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:00.741Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:00.742Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:00.754Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:00.756Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:09.758Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:09.759Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:09.765Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:09.765Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:18.267Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:18.268Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:18.273Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:18.273Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:20.478Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:20.478Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:20.483Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:19:20.484Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:19:38.322Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkyOTI4LCJleHAiOjE3NjUzOTc3Mjh9.MardmRnaHrlw8MX6JyFXy7wrNLAcZZrasP6tissgcSc
+2025-12-03T20:19:40.749Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:19:40.750Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:19:40.763Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:19:40.764Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:20:47.431Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:20:47.432Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:20:47.439Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:20:47.440Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:21:07.988Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:21:07.988Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:21:07.994Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:21:07.995Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:21:08.043Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzMTc4LCJleHAiOjE3NjUzOTc5Nzh9.qUxYhQ9l_xFdrTrCSrC_WytWxDIoNLvDkVbAUSYo7W0
+2025-12-03T20:21:08.059Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:08.060Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:08.070Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:08.071Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:11.526Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:11.527Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:11.538Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:11.540Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:46.935Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:21:46.936Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:21:46.942Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:21:46.942Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:21:46.979Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzMjY4LCJleHAiOjE3NjUzOTgwNjh9.F4FMIX_z2_47T3ZjzOrdoTB-ekN1q2TtsTVaTX9vLj8
+2025-12-03T20:21:47.003Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:47.043Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:47.055Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:47.056Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:57.218Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:57.219Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:57.230Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:57.230Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:58.886Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:58.887Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:21:58.900Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:21:58.901Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:22:23.907Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:22:23.908Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:22:23.913Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:22:23.914Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:22:23.955Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzMzA2LCJleHAiOjE3NjUzOTgxMDZ9.sGXmG3J7aHrHP23X1f8SXpvGWipOT8yB9q9CY2amtUY
+2025-12-03T20:22:23.971Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:22:23.972Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:22:23.984Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:22:23.984Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:25:24.970Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:25:24.970Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:25:24.976Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:25:24.976Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:25:25.022Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzMzQzLCJleHAiOjE3NjUzOTgxNDN9.kqfiT-j7E1ApviEploUC5UAbUsACctNy0k9ZOvqA5N0
+2025-12-03T20:25:25.040Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:25:25.041Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:25:25.052Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:25:25.053Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:26:31.741Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:26:31.742Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:26:31.748Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:26:31.748Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:26:31.780Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzNTI1LCJleHAiOjE3NjUzOTgzMjV9.1t_Wxj5Fgylt-20uLdnCFXUUJXJgtxJnScBCSXUWty4
+2025-12-03T20:26:31.795Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:26:31.796Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:26:31.804Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:26:31.805Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:26:36.009Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:26:36.010Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:26:36.020Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:26:36.021Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:26:50.831Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:26:50.832Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:26:50.841Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:26:50.843Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:26:50.885Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzNTkxLCJleHAiOjE3NjUzOTgzOTF9.sK7LFCyBjRRd5nAm94VKmC2NMOuoOMFrVOj8fjEquLk
+2025-12-03T20:26:50.901Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:26:50.901Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:26:50.911Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:26:50.911Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:29:10.815Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:29:10.816Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:29:10.822Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:29:10.822Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:29:10.855Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzNjEwLCJleHAiOjE3NjUzOTg0MTB9.qdYjlMLh8zSLYP9pUDg5V9P_aIxfsiAe2xTXMMzklGk
+2025-12-03T20:29:10.871Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:29:10.872Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:29:10.881Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:29:10.881Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:29:12.213Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:29:12.214Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:29:12.224Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:29:12.225Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:32:12.908Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:32:12.908Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:32:12.913Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:32:12.914Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:32:12.948Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzNzUwLCJleHAiOjE3NjUzOTg1NTB9.9dSaK7f9KkskOEZhgCHBAthGRh_8x5oXu5oQ9P7aaoc
+2025-12-03T20:32:12.964Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:32:12.965Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:32:12.973Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:32:12.974Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:36:00.309Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:36:00.310Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:36:00.315Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:36:00.316Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:36:00.348Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0NzkzOTMyLCJleHAiOjE3NjUzOTg3MzJ9.37fEbd9ADCT8KwKv0-zYz_w1q0ZklIonWhr3l32G7L0
+2025-12-03T20:36:00.362Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:36:00.362Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:36:00.369Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:36:00.369Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:43:37.721Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:43:37.750Z | info | DB connection
+2025-12-03T20:43:43.458Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:43:43.486Z | info | DB connection
+2025-12-03T20:43:48.640Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:43:48.642Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:43:48.651Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:43:48.651Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:43:48.728Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk0MTYwLCJleHAiOjE3NjUzOTg5NjB9.lRI7F1kmuPe1S22cP1yRAQy7ZD8QH3EHXKIds7UpEuA
+2025-12-03T20:43:48.742Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:43:48.743Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:43:48.758Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:43:48.759Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:14.939Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:44:14.940Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:44:14.946Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:44:14.947Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:44:15.009Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk0NjI4LCJleHAiOjE3NjUzOTk0Mjh9.F8wsalSpCGgJQpwllZE0yWQ0zCYAOWAfRAUUVH86Lbk
+2025-12-03T20:44:15.042Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:15.043Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:15.063Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:15.064Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:21.624Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:21.625Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:21.641Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:21.642Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:23.069Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:23.070Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:23.086Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:23.087Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:24.118Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:24.120Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:24.134Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:24.135Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.063Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.064Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.078Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.079Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.703Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.704Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.719Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:25.720Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:26.499Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:26.500Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:26.514Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:26.515Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:27.296Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:27.297Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:27.312Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:27.313Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.020Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.021Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.033Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.034Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.825Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.826Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.838Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:28.839Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:29.524Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:44:29.525Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:44:29.532Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:44:29.533Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:44:29.583Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk0NjU0LCJleHAiOjE3NjUzOTk0NTR9.EcZfi7vfLeTwsI1TJYpGv58FBWNqhM43o_Oy34CNYEA
+2025-12-03T20:44:29.601Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:29.602Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:29.616Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:29.618Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:30.260Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:30.261Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:30.274Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:30.275Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:31.397Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:31.398Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:31.411Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:31.412Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.212Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.213Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.226Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.227Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.977Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.978Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.990Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:32.991Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:33.881Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:33.882Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:33.894Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:33.895Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:34.835Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:34.836Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:44:34.850Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:44:34.851Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:46:03.135Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:46:03.174Z | info | DB connection
+2025-12-03T20:46:04.655Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:46:04.680Z | info | DB connection
+2025-12-03T20:46:48.282Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:46:48.311Z | info | DB connection
+2025-12-03T20:50:34.347Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:50:34.404Z | info | DB connection
+2025-12-03T20:50:35.779Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:50:35.816Z | info | DB connection
+2025-12-03T20:50:46.573Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:50:46.584Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:50:46.656Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk0NjY5LCJleHAiOjE3NjUzOTk0Njl9.Ofo-MnHmW0BgEub5DLCjZ4oM9Ecdaxcz182lHXfUpAo
+2025-12-03T20:50:46.670Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:46.671Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:46.687Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:46.689Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:48.241Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:48.243Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:48.265Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:48.266Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:49.551Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:49.553Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:49.572Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:49.573Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:50.528Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:50.529Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:50.545Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:50.547Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:51.423Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:51.424Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:51.443Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:50:51.445Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:50:56.096Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:50:56.124Z | info | DB connection
+2025-12-03T20:50:58.782Z | info | Server is running on http://127.0.0.1:4000
+2025-12-03T20:50:58.815Z | info | DB connection
+2025-12-03T20:51:04.950Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:51:04.952Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:51:04.962Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:51:04.963Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:51:05.057Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk1MDQ2LCJleHAiOjE3NjUzOTk4NDZ9.DdB1x2NqkzdBxXOEmNGo0VfGtA1qu4ZP-RVLiLCeXLs
+2025-12-03T20:51:05.077Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:51:05.078Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:51:05.093Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:51:05.094Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:55:01.703Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:55:01.705Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:55:01.712Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:55:01.713Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:55:01.788Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk1MDY1LCJleHAiOjE3NjUzOTk4NjV9.OhVsOS4-K5LUcNM3_Pb5idsEmbrw8ecSOHwC5VdhKiM
+2025-12-03T20:55:01.807Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:55:01.808Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:55:01.831Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:55:01.833Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:56:36.853Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:56:36.855Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:56:36.860Z | warn | AUTH: Invalid or expired access token
+2025-12-03T20:56:36.861Z | error | AUTH ERROR: ClientError: Access token invalid or expired !
+2025-12-03T20:56:36.905Z | info | REFRESH SUCCESS: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MWEzOTdhYmVkMjNhNWQ3OWUxZDFkOCIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDIuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJvbGUiOiJ1c2VyIiwiaWF0IjoxNzY0Nzk1MzAxLCJleHAiOjE3NjU0MDAxMDF9.lvidg1YZMknMVoemowwrLEC6QLtGK1HrcjsBBhRDkSE
+2025-12-03T20:56:36.922Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:56:36.944Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:56:42.773Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:56:42.778Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:56:42.796Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:56:42.798Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:56:45.745Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:56:45.746Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
+2025-12-03T20:56:45.759Z | debug | AUTH: Authorized user tuxtayevumid55@gmail.com
+2025-12-03T20:56:45.760Z | debug | GET ALL CATIGORI REQUEST: tuxtayevumid55@gmail.com
